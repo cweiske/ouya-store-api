@@ -26,3 +26,11 @@ GET parameters
 
 HTTP response
 =============
+Status code
+  ``200 OK``
+
+Example
+-------
+
+.. include:: api-v1-console_configuration-response.json
+   :code:

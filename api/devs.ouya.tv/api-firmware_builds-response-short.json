@@ -1,0 +1,21 @@
+{
+  "result": [
+    {
+      "incremental": false,
+      "filename": "OUYA-1.2.1427-r1.zip",
+      "timestamp": "1418407476",
+      "md5sum": "3a95be82b4c33bd68353dc314346f39f",
+      "channel": "stable",
+      "url": "http://cds.t2z5c2q6.hwcdn.net/ota/RC-OUYA-1.2.1427-r1_ota.zip",
+      "requiredUpto": "1.2.995",
+      "changes": "https://devs.ouya.tv/api/changelog/3a95be82b4c33bd68353dc314346f39f.txt",
+      "changesLocalized": {
+        "de": " <!doctype html>\r\n<html>\r\n...",
+        "it": "<!doctype html>\r\n<html>\r\n..",
+        "fr": "<!doctype html>\r\n<html>\r\n..",
+        "es": "<!doctype html>\r\n<html>\r\n..",
+        "en": "<!doctype html>\r\n<html>\r\n.."
+      }
+    }
+  ]
+}

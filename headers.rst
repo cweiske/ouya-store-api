@@ -31,21 +31,29 @@ from the OUYA console to the servers.
   Same as ``X-OUYA-AuthToken``.
 
   FIXME: Why two token headers?
+
+  FIXME: Why ``auth_token`` GET parameter when there are headers?
 ``X-OUYA-Device``
   ``ouya_1_1``
 
   Probably hardware revision
-``Cookie``
-  ``__cfduid=da019d762142461c19f162c0ee443f9c71434577887``
-
-  ??? FIXME
-``Cookie2``
-  ``$Version=1``
-
-  ??? FIXME
 ``Accept-Encoding``
   ``gzip``
 
   The OUYA understands gzip compression
 ``User-Agent``
   ``OUYA 0 1.00 1.2.1427_r1``
+
+
+Headers to ignore
+=================
+``Cookie``
+  ``__cfduid=da019d762142461c19f162c0ee443f9c71434577887``
+
+  Comes from the cloudflare error page. Can be ignored.
+``Cookie2``
+  ``$Version=1``
+
+  ??? FIXME
+
+  Not on the cloudflare error page.

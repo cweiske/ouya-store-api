@@ -17,12 +17,13 @@ Path
 Headers
   None of the standard headers.
 
-  ::
-
-    User-Agent: Ouya-Connection-Test
+  ``User-Agent``
+    ``Ouya-Connection-Test``
 
 
 HTTP response
 =============
 Status code
-  204 No Content
+  ``204 No Content``
+
+Empty body.
