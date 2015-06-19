@@ -1,0 +1,17 @@
+{
+  "error": {
+    "data": {
+      "username": [
+        "can't be blank",
+        "is too short (minimum is 3 characters)",
+        "is invalid"
+      ],
+      "password": [
+        "can't be blank",
+        "cannot contain username"
+      ]
+    },
+    "message": "Validation errors occurred",
+    "code": 2006
+  }
+}
