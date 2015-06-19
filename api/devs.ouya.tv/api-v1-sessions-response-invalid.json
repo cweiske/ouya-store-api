@@ -1,0 +1,6 @@
+{
+  "error": {
+    "message": "Invalid authentication data",
+    "code": 2001
+  }
+}
