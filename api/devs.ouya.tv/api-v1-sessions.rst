@@ -9,6 +9,13 @@ This token is stored in the console and used in the
 ``auth_token`` GET parameter.
 
 
+Usage
+=====
+
+#. After logging with an existing account
+#. After new user registration
+
+
 HTTP request
 ============
 Protocol

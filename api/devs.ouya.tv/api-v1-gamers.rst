@@ -8,6 +8,12 @@ This method is both used as verification during input, as well as the
 final registration.
 
 
+Usage
+=====
+#. During registration to check if data are valid
+#. During registration to finish new user sign up and create the account
+
+
 HTTP request
 ============
 Protocol
