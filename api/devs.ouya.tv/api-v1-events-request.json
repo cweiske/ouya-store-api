@@ -1,0 +1,218 @@
+[
+    {
+        "data": "num_connected_controllers=1 controller_names=\"OUYA Game Controller\" controller_versions=\"104\"",
+        "timestamp": 1434577827864,
+        "name": "connected_controllers",
+        "uuid": "47ebb367-ce5f-4249-88f1-312bfac9efa2"
+    },
+    {
+        "data": "num_apps_sideloaded=0 sideloaded_packages=none",
+        "timestamp": 1434577827849,
+        "name": "sideloaded_apps",
+        "uuid": "7ab19279-0308-4a65-93d2-bc83f3bc518b"
+    },
+    {
+        "data": "hardware_version=0 ouya_version=1.2.1427_r1 system_language=eng age_gate=null pin_code=false num_apps_ouya=0 num_apps_sideloaded=0 num_buried_packages=0 hd_space_used=0 hd_space_free=0 mem_free=436621312 mem_total=1018093568 tv_resolution=1920x1080 network_device=ethernet adb_enabled=true",
+        "timestamp": 1434577827834,
+        "name": "console_snapshot",
+        "uuid": "308b7829-a357-4d0d-a79b-2456c40dc678"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.console.launcher.agreements.AgreementsActivity app_session_start_tick=37 app_session_current_tick=605 app_session_active_ticks=568 app_session_last_analog_tick=597 app_session_last_digital_tick=32",
+        "timestamp": 1434577800458,
+        "name": "app_session_update",
+        "uuid": "161d3457-4469-42e3-bbc5-4c8e4a45743f"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.console.launcher.agreements.AgreementsActivity app_session_start_tick=37 app_session_current_tick=605 app_session_active_ticks=568 app_session_last_analog_tick=597 app_session_last_digital_tick=32",
+        "timestamp": 1434577800331,
+        "name": "app_session_update",
+        "uuid": "ce209f8e-c564-4264-afdd-9e139b4d99fd"
+    },
+    {
+        "data": "url=https:\/\/devs.ouya.tv\/agreements\/marketplace.html loadTime=1.826 viewTime=4.908",
+        "timestamp": 1434577800196,
+        "name": "AgreementsDialog",
+        "uuid": "7d6d231e-9d6e-45f1-9c4e-3be7360e4f9a"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.console.launcher.agreements.AgreementsActivity app_session_start_tick=37 app_session_current_tick=598 app_session_active_ticks=561 app_session_last_analog_tick=597 app_session_last_digital_tick=32",
+        "timestamp": 1434577793490,
+        "name": "app_session_update",
+        "uuid": "c8054c0c-ba8e-4024-afdd-31c123745e5e"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.CreateUserPromptActivity app_session_start_tick=37 app_session_current_tick=585 app_session_active_ticks=548 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577781047,
+        "name": "app_session_update",
+        "uuid": "0f9bcf75-5cfd-4c30-97f4-a6190f0fb861"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.UpdateActivity app_session_start_tick=37 app_session_current_tick=585 app_session_active_ticks=548 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577781039,
+        "name": "app_session_update",
+        "uuid": "a7b4bffd-55a6-4aa8-ad05-c2c36acc046c"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.UpdateActivity app_session_start_tick=37 app_session_current_tick=585 app_session_active_ticks=548 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577780686,
+        "name": "app_session_update",
+        "uuid": "0ee66da1-fbe4-4b09-a036-429c365be980"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.UpdateActivity app_session_start_tick=37 app_session_current_tick=585 app_session_active_ticks=548 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577780608,
+        "name": "app_session_update",
+        "uuid": "18780fea-89d3-4b34-9c60-b03eb2522b3f"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.UpdateActivity app_session_start_tick=37 app_session_current_tick=581 app_session_active_ticks=544 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577776955,
+        "name": "app_session_update",
+        "uuid": "fb6b0006-901b-4e78-925d-4d471bfe8d73"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.NetworkSetupActivity app_session_start_tick=37 app_session_current_tick=581 app_session_active_ticks=544 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577776942,
+        "name": "app_session_update",
+        "uuid": "82d25266-58bd-492b-b582-31c26b505ac2"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.NetworkSetupActivity app_session_start_tick=37 app_session_current_tick=581 app_session_active_ticks=544 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577776609,
+        "name": "app_session_update",
+        "uuid": "ccda1f7d-8c57-4ad1-ab46-7402927c40f7"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.NetworkSetupActivity app_session_start_tick=37 app_session_current_tick=581 app_session_active_ticks=544 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577776449,
+        "name": "app_session_update",
+        "uuid": "3d984c56-c2a5-4182-9794-185ef968b95d"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.NetworkSetupActivity app_session_start_tick=37 app_session_current_tick=577 app_session_active_ticks=540 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577772739,
+        "name": "app_session_update",
+        "uuid": "88e40ac3-dc0d-4a1d-be77-f7855854877c"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.LocaleActivity app_session_start_tick=37 app_session_current_tick=577 app_session_active_ticks=540 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577772731,
+        "name": "app_session_update",
+        "uuid": "7cb1fea0-5415-444c-ab0f-df36b4d4fa90"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.LocaleActivity app_session_start_tick=37 app_session_current_tick=577 app_session_active_ticks=540 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577772221,
+        "name": "app_session_update",
+        "uuid": "38cd9bcd-2277-419f-875c-6d195f148c02"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.LocaleActivity app_session_start_tick=37 app_session_current_tick=576 app_session_active_ticks=539 app_session_last_analog_tick=576 app_session_last_digital_tick=32",
+        "timestamp": 1434577772087,
+        "name": "app_session_update",
+        "uuid": "4525614b-d158-4678-b559-53cabe75af1e"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.LocaleActivity app_session_start_tick=37 app_session_current_tick=77 app_session_active_ticks=40 app_session_last_analog_tick=71 app_session_last_digital_tick=32",
+        "timestamp": 1434577272237,
+        "name": "app_session_update",
+        "uuid": "1f1fb7c4-d5fb-4c63-b344-e33afe1a4316"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.PairControllersActivity app_session_start_tick=37 app_session_current_tick=77 app_session_active_ticks=40 app_session_last_analog_tick=71 app_session_last_digital_tick=32",
+        "timestamp": 1434577272229,
+        "name": "app_session_update",
+        "uuid": "1acaf070-969a-4638-8c3b-6f6203643f2c"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.PairControllersActivity app_session_start_tick=37 app_session_current_tick=76 app_session_active_ticks=39 app_session_last_analog_tick=71 app_session_last_digital_tick=32",
+        "timestamp": 1434577271825,
+        "name": "app_session_update",
+        "uuid": "1316a488-2bcb-4294-9bac-584ae6bd5a12"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.PairControllersActivity app_session_start_tick=37 app_session_current_tick=76 app_session_active_ticks=39 app_session_last_analog_tick=71 app_session_last_digital_tick=32",
+        "timestamp": 1434577271771,
+        "name": "app_session_update",
+        "uuid": "d66cb353-f249-42e2-82ad-e7c275cbebcf"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.PairControllersActivity app_session_start_tick=37 app_session_current_tick=47 app_session_active_ticks=10 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577242937,
+        "name": "app_session_update",
+        "uuid": "aa11379d-3345-4616-a902-be160340040c"
+    },
+    {
+        "data": "app_session_uuid=a0e88f3f-e661-49d5-a59c-8b3c011a81c0 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.startup.PlayVideoActivity app_session_start_tick=32 app_session_current_tick=47 app_session_active_ticks=6 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577242929,
+        "name": "app_session_update",
+        "uuid": "3170b01a-362c-4311-bf88-b7249b5bf43b"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.PairControllersActivity app_session_start_tick=37 app_session_current_tick=47 app_session_active_ticks=10 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577242924,
+        "name": "app_session_update",
+        "uuid": "c88625ea-09ba-435f-8a24-435ed7c2f484"
+    },
+    {
+        "data": "app_session_uuid=a0e88f3f-e661-49d5-a59c-8b3c011a81c0 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.startup.PlayVideoActivity app_session_start_tick=32 app_session_current_tick=38 app_session_active_ticks=6 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577233483,
+        "name": "app_session_update",
+        "uuid": "47f21fae-8ca2-405c-964d-9f747c8ff5d1"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.PairControllersActivity app_session_start_tick=37 app_session_current_tick=38 app_session_active_ticks=1 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577233480,
+        "name": "app_session_update",
+        "uuid": "bd519f90-aa42-461c-bf49-69ac6a78bb2b"
+    },
+    {
+        "data": "app_session_uuid=a0e88f3f-e661-49d5-a59c-8b3c011a81c0 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.startup.PlayVideoActivity app_session_start_tick=32 app_session_current_tick=37 app_session_active_ticks=5 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577233029,
+        "name": "app_session_update",
+        "uuid": "47d09f5b-0fd1-46ea-a15c-439196446191"
+    },
+    {
+        "data": "app_session_uuid=a963561b-a6e8-49f5-bcfa-218bc5a1d6c8 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.oobe app_session_current_activity=tv.ouya.oobe.OOBEController app_session_start_tick=37 app_session_current_tick=37 app_session_active_ticks=0 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577233026,
+        "name": "app_session_update",
+        "uuid": "9b09e3f9-1d16-459c-8f1b-8aad8d688e22"
+    },
+    {
+        "data": "app_session_uuid=a0e88f3f-e661-49d5-a59c-8b3c011a81c0 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.startup.PlayVideoActivity app_session_start_tick=32 app_session_current_tick=33 app_session_active_ticks=1 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577228909,
+        "name": "app_session_update",
+        "uuid": "bb2bfb8f-8d9a-4164-a59e-141116a9ddf7"
+    },
+    {
+        "data": "app_session_uuid=a0e88f3f-e661-49d5-a59c-8b3c011a81c0 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.startup.PlayVideoActivity app_session_start_tick=32 app_session_current_tick=32 app_session_active_ticks=0 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577227905,
+        "name": "app_session_update",
+        "uuid": "0dd6ac90-7153-4b9d-a7c5-b7aac836b799"
+    },
+    {
+        "data": "app_session_uuid=a0e88f3f-e661-49d5-a59c-8b3c011a81c0 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.startup.PlayVideoActivity app_session_start_tick=32 app_session_current_tick=32 app_session_active_ticks=0 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577227898,
+        "name": "app_session_update",
+        "uuid": "148093b2-7ad0-426f-950f-2d1574c0ebf4"
+    },
+    {
+        "data": "app_session_uuid=817b5728-efa4-4029-821d-6d6a2962ebf5 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.startup.PlayVideoActivity app_session_start_tick=32 app_session_current_tick=32 app_session_active_ticks=0 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577227684,
+        "name": "app_session_update",
+        "uuid": "cab548f8-d2ca-4974-b567-45f1b9ffff73"
+    },
+    {
+        "data": "app_session_uuid=c1c59721-7889-4d8a-83f3-a732f1bb3a03 app_session_ouya_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 app_session_package=tv.ouya.console app_session_current_activity=tv.ouya.console.launcher.guide.GuideActivity app_session_start_tick=32 app_session_current_tick=32 app_session_active_ticks=0 app_session_last_analog_tick=32 app_session_last_digital_tick=32",
+        "timestamp": 1434577227684,
+        "name": "app_session_update",
+        "uuid": "5d3042bf-90c3-4e4f-a30a-723bc1753d78"
+    },
+    {
+        "data": "session_uuid=e0eef5de-624c-42f8-9b1b-a0968a27eb03 session_start_tick=32 session_current_tick=32 session_last_analog_tick=32 session_last_digital_tick=32",
+        "timestamp": 1434577227681,
+        "name": "ouya_session_update",
+        "uuid": "ee792b57-8cff-4868-bf01-4417613bc96b"
+    }
+]

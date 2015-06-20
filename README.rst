@@ -11,6 +11,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/status.ouya.tv/api-v1-status.rst
 .. include:: api/devs.ouya.tv/api-firmware_builds.rst
 .. include:: api/devs.ouya.tv/api-v1-console_configuration.rst
+.. include:: api/devs.ouya.tv/api-v1-events.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers.rst
 .. include:: api/devs.ouya.tv/api-v1-sessions.rst
 .. include:: api/devs.ouya.tv/api-v1-themes.rst
