@@ -47,6 +47,9 @@ Success
 -------
 When the user logged in successfully.
 
+.. note:: If the user is already logged in, the old ``auth_token`` is returned.
+          No new token is issued in this case.
+
 Status code
   ``200 OK`` 
 Content type
