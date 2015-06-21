@@ -45,5 +45,5 @@ Content type
 Example
 -------
 
-.. include:: api-firmware_builds-response-short.json
+.. include:: api-firmware_builds.response-short.json
    :code:

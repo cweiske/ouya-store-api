@@ -39,7 +39,7 @@ Content type
 
 Example:
 
-.. include:: api-v1-themes-response.json
+.. include:: api-v1-themes.response.json
    :code:
 
 FIXME: get response with video/image set.

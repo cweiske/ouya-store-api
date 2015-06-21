@@ -32,5 +32,5 @@ Status code
 Example
 -------
 
-.. include:: api-v1-console_configuration-response.json
+.. include:: api-v1-console_configuration.response.json
    :code:

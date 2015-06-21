@@ -19,7 +19,7 @@ HTTP request
 Protocol
   ``https``
 Method
-  ``GET``
+  ``POST``
 Host
   ``devs.ouya.tv``
 Path
@@ -45,7 +45,7 @@ POST parameters
 
 Example event JSON data:
 
-.. include:: api-v1-events-request.json
+.. include:: api-v1-events.request.json
    :code:
    :end-line: 30
 

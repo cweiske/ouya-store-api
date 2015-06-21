@@ -21,7 +21,7 @@ HTTP request
 Protocol
   ``https``
 Method
-  ``GET``
+  ``POST``
 Host
   ``devs.ouya.tv``
 Path
@@ -57,7 +57,7 @@ Content type
 
 Response body example:
 
-.. include:: api-v1-sessions-response-valid.json
+.. include:: api-v1-sessions.response-valid.json
    :code:
 
 
@@ -76,5 +76,5 @@ Content type
 
 Response body example:
 
-.. include:: api-v1-sessions-response-invalid.json
+.. include:: api-v1-sessions.response-invalid.json
    :code:

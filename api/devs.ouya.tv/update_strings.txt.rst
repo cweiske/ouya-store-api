@@ -28,6 +28,6 @@ Plain text file with one string per line
 
 Example
 -------
-.. include:: update_strings.txt-response.txt
+.. include:: update_strings.txt.response.txt
    :code:
    :end-line: 5

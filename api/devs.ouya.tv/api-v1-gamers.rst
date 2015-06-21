@@ -79,5 +79,5 @@ Content type
 
 Example:
 
-.. include:: api-v1-gamers-response-invalid.json
+.. include:: api-v1-gamers.response-invalid.json
    :code:
