@@ -30,4 +30,4 @@ HTML file
 
 See also
 ========
-- ``GET https://devs.ouya.tv/api/v1/gamers/me/agreements``
+- `GET https://devs.ouya.tv/api/v1/gamers/me/agreements`_

@@ -41,4 +41,8 @@ Example:
 .. include:: api-v1-gamers-me-agreements.response.json
    :code:
 
+Each agreement has an associated HTML file with the same name
+at ``https://devs.ouya.tv/agreements/``, e.g.
+``https://devs.ouya.tv/agreements/marketplace.html`` for the
+``marketplace`` agreement.
 
