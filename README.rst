@@ -13,6 +13,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-console_configuration.rst
 .. include:: api/devs.ouya.tv/api-v1-events.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers.rst
+.. include:: api/devs.ouya.tv/api-v1-gamers-me.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-agreements.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-agreements.put.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-consoles.rst
