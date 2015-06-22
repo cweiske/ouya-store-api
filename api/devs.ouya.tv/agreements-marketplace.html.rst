@@ -16,7 +16,7 @@ Method
 Host
   ``devs.ouya.tv``
 Path
-  ``/agreements/marketplace``
+  ``/agreements/marketplace.rst``
 Headers
   None of the standard headers required.
 GET parameters
@@ -26,3 +26,8 @@ GET parameters
 HTTP response
 =============
 HTML file
+
+
+See also
+========
+- ``GET https://devs.ouya.tv/api/v1/gamers/me/agreements``
