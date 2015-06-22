@@ -18,5 +18,6 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-consoles.rst
 .. include:: api/devs.ouya.tv/api-v1-sessions.rst
 .. include:: api/devs.ouya.tv/api-v1-themes.rst
+.. include:: api/devs.ouya.tv/api-v1-wallet.rst
 .. include:: api/devs.ouya.tv/agreements-marketplace.html.rst
 .. include:: api/devs.ouya.tv/update_strings.txt.rst
