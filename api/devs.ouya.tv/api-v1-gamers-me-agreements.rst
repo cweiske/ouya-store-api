@@ -6,12 +6,6 @@ Check which legal agreements have been confirmed by the user,
 and if there are updates that have to be confirmed.
 
 
-Usage
-=====
-
-FIXME
-
-
 HTTP request
 ============
 Protocol

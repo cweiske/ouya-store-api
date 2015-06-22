@@ -2,7 +2,11 @@
 ``GET https://devs.ouya.tv/api/v1/wallet``
 ==========================================
 
-The the account balance and currency.
+Get the account balance and currency.
+
+Usage
+=====
+After user registration, before the credit card input form is shown.
 
 
 HTTP request
@@ -33,3 +37,6 @@ Example:
 
 .. include:: api-v1-wallet.response.json
    :code:
+
+FIXME: Find out if we can disable credit card input by setting
+``requiresPaymentMethod`` to ``false``.

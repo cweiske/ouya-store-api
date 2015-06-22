@@ -5,12 +5,6 @@
 Store that a legal agreement has been confirmed by the user.
 
 
-Usage
-=====
-
-FIXME
-
-
 HTTP request
 ============
 Protocol

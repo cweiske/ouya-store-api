@@ -2,13 +2,7 @@
 ``POST https://devs.ouya.tv/api/v1/gamers/me/consoles``
 =======================================================
 
-Associate a console ID with the account
-
-
-Usage
-=====
-
-FIXME
+Associate a console ID with the account.
 
 
 HTTP request
