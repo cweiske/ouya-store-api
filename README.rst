@@ -14,6 +14,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-console_configuration.rst
 .. include:: api/devs.ouya.tv/api-v1-credit_card.post.rst
 .. include:: api/devs.ouya.tv/api-v1-credit_card.put.rst
+.. include:: api/devs.ouya.tv/api-v1-discover.rst
 .. include:: api/devs.ouya.tv/api-v1-events.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers-me.rst

@@ -1,0 +1,122 @@
+{
+  "rows": [
+    {
+      "showPrice": true,
+      "ranked": true,
+      "tiles": [ 0, 1, 2, 3 ],
+      "title": "TRENDING NOW"
+    },
+    {
+      "showPrice": true,
+      "ranked": false,
+      "tiles": [ 94, 95, 96 ],
+      "title": "NEW RELEASES"
+    },
+    {
+      "showPrice": true,
+      "ranked": false,
+      "tiles": [ 94, 62 ],
+      "title": "OUR FOUNDERS"
+    }
+  ],
+  "tiles": [
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Platformer",
+        "Retro",
+        "Sports"
+      ],
+      "url": "ouya://launcher/details?app=evil.corptron.DuckGame",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "ac4e1ddefe383f8314fe5914edcf8705"
+        },
+        "versionNumber": "1.11",
+        "uuid": "7cbd8b8b-e9df-4c30-9e0f-5a777c5e4eb4"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Landon Podbielski",
+        "identifier": "DUCKGAME",
+        "name": "Duck Game",
+        "localPrice": 8.99,
+        "originalPrice": 8.99,
+        "percentOff": 0,
+        "currency": "EUR",
+        "description": "You are buying Duck Game you lucky person. "
+      },
+      "premium": false,
+      "type": "app",
+      "package": "evil.corptron.DuckGame",
+      "updated_at": 1417731390,
+      "updatedAt": "2014-12-04T22:16:30Z",
+      "title": "DUCK GAME",
+      "image": "https://www.filepicker.io/api/file/iESEZs3fSUafrXuNpagi",
+      "contentRating": "Everyone",
+      "rating": {
+        "count": 1155,
+        "average": 4.31
+      }
+    },
+    {
+      "gamerNumbers": [
+        1,
+        2
+      ],
+      "genres": [
+        "Adventure",
+        "Arcade/Pinball",
+        "Dual Stick",
+        "FPS/Shooter",
+        "Fight!",
+        "Kids List",
+        "Multiplayer",
+        "Racing",
+        "Short on Time?"
+      ],
+      "url": "ouya://launcher/details?app=com.media.playcast.OUYA.BAA",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "39931a3179e6c984771f0f1f49b59e87"
+        },
+        "versionNumber": "1.6.35707.8",
+        "uuid": "abe8eeb3-4fd9-45bb-ba6b-50eb9d60478b"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": null,
+      "premium": false,
+      "type": "app",
+      "package": "com.media.playcast.OUYA.BAA",
+      "updated_at": 1433234808,
+      "updatedAt": "2015-06-02T08:46:48Z",
+      "title": "GameFly Packful Of Fun",
+      "image": "https://www.filepicker.io/api/file/05y2T8cKTY6cUfX7RYFR",
+      "contentRating": "17+",
+      "rating": {
+        "count": 394,
+        "average": 4.09
+      }
+    },
+    {
+      "url": "ouya://launcher/details?page=08db29bd-c2f0-41d7-9e5d-d842f1bf34d2",
+      "image": "https://s3.amazonaws.com/ouya-screenshots/08db29bd-c2f0-41d7-9e5d-d842f1bf34d2/thumbnails/thumbnail20150512-3-1gigg1x.jpeg",
+      "uuid": "08db29bd-c2f0-41d7-9e5d-d842f1bf34d2",
+      "title": "OUYA PRESENTS: JOE DANGER",
+      "type": "details_page"
+    },
+    {
+      "url": "ouya://launcher/details?page=3bdbe05a-201f-40c0-bb58-5aa4d6ea79dc",
+      "image": "https://s3.amazonaws.com/ouya-screenshots/3bdbe05a-201f-40c0-bb58-5aa4d6ea79dc/thumbnails/thumbnail20150220-3-1p5bhh7.jpeg",
+      "uuid": "3bdbe05a-201f-40c0-bb58-5aa4d6ea79dc",
+      "title": "OUYA PRESENTS: THE JACKBOX PARTY PACK",
+      "type": "details_page"
+    },
+  ],
+  "title": "DISCOVER"
+}
