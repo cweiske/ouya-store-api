@@ -46,3 +46,5 @@ Example:
 
 The ``one_time_token`` is used in the following ``POST`` request to
 the URL determined in ``redirect_url``.
+
+See `POST https://ott9.wpstn.com/live/`_.
