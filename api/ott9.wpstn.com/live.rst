@@ -61,3 +61,4 @@ Redirects to ``wpsuccess`` URL on devs.ouya.tv with the ``OTT`` parameter::
   https://devs.ouya.tv/wpsuccess?OTT=C187D8AE8970...
 
 The redirect location header seems to be ignored; it does not get called.
+Instead, `PUT https://devs.ouya.tv/api/v1/credit_card`_ is fetched.
