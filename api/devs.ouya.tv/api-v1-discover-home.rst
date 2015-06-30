@@ -34,7 +34,7 @@ Content-type
 
 Response body definition
 ------------------------
-Same as `GET https://devs.ouya.tv/api/v1/discover` with some limitations:
+Same as `GET https://devs.ouya.tv/api/v1/discover`_ with some limitations:
 
 - Only one entry in the ``rows`` array
 

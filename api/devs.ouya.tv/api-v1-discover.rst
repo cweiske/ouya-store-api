@@ -227,9 +227,14 @@ The position in the ``tiles`` array is the ID used by ``rows/tiles``.
 ``url``
   string
 
-  ``ouya://launcher/details?app=evil.corptron.DuckGame``
-
   URL for the game details page
+
+  Game details
+    ``ouya://launcher/details?app=evil.corptron.DuckGame``
+  Bundle details
+    ``ouya://launcher/details?page=be239ca4-10fd-42dd-89cd-1806e80b1362``
+
+    See `GET https://devs.ouya.tv/api/v1/details`_.
 
 ``title``
 ---------
