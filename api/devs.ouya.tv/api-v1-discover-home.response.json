@@ -1,0 +1,411 @@
+{
+  "rows": [
+    {
+      "showPrice": true,
+      "ranked": false,
+      "tiles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "title": "FEATURED"
+    }
+  ],
+  "tiles": [
+    {
+      "bundle": {
+        "apps": [
+          "com.GoldenTricycle.Clark",
+          "com.Tripleslash.MagneticByNature",
+          "com.Thinice.TwinRobots",
+          "com.scaryrobot.badbadbots"
+        ],
+        "currency": "EUR",
+        "price": 6.99,
+        "contentRating": "9+",
+        "purchaseUrl": "ouya://launcher/purchase?developer=ec1a9ccd-373f-4047-bd07-36466ab7e25d&product=ROBOBUNDLE"
+      },
+      "url": "ouya://launcher/details?page=be239ca4-10fd-42dd-89cd-1806e80b1362",
+      "image": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150202-3-6hikjv.jpeg",
+      "uuid": "be239ca4-10fd-42dd-89cd-1806e80b1362",
+      "title": "ROBO GAME BUNDLE!",
+      "type": "details_page"
+    },
+    {
+      "gamerNumbers": [
+        1,
+        2
+      ],
+      "genres": [
+        "Adventure",
+        "Fight!",
+        "Multiplayer",
+        "Platformer",
+        "Retro",
+        "Role-Playing"
+      ],
+      "url": "ouya://launcher/details?app=com.ethanonengine.ouya.magicrampage",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "d49198f7863e86e16289cc57e98d2b51"
+        },
+        "versionNumber": "1.8.9",
+        "uuid": "b7addbde-907a-4ffb-9964-0681f288b16d"
+      },
+      "inAppPurchases": false,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Asantee Games",
+        "identifier": "mr_full",
+        "name": "Magic Rampage Full Upgrade",
+        "localPrice": 3,
+        "originalPrice": 5.99,
+        "percentOff": 50,
+        "currency": "EUR",
+        "description": "Grants full access to all Dungeons, Survival scenarios and all features available in the game."
+      },
+      "premium": false,
+      "type": "app",
+      "package": "com.ethanonengine.ouya.magicrampage",
+      "updated_at": 1433347308,
+      "updatedAt": "2015-06-03T16:01:48Z",
+      "title": "Magic Rampage",
+      "image": "https://www.filepicker.io/api/file/szh3Jvi4RlCsP5csZCCA",
+      "contentRating": "9+",
+      "rating": {
+        "count": 467,
+        "average": 4.3
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "FPS/Shooter",
+        "Kids List",
+        "Meditative",
+        "Sim/Strategy"
+      ],
+      "url": "ouya://launcher/details?app=com.ChrisChung.CatlateralDamage",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "a1128ceef7cb758d3f7b5b1b8aba08fd"
+        },
+        "versionNumber": "1.0",
+        "uuid": "ed25db89-3819-42aa-86a6-1995d147f8b0"
+      },
+      "inAppPurchases": false,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Chris Chung",
+        "identifier": "CatlateralDamageFull",
+        "name": "Catlateral Damage",
+        "localPrice": 8.99,
+        "originalPrice": 8.99,
+        "percentOff": 0,
+        "currency": "EUR",
+        "description": "See the world through the eyes of a domestic house cat and make a mess!"
+      },
+      "premium": true,
+      "type": "app",
+      "package": "com.ChrisChung.CatlateralDamage",
+      "updated_at": 1433878173,
+      "updatedAt": "2015-06-09T19:29:33Z",
+      "title": "Catlateral Damage",
+      "image": "https://www.filepicker.io/api/file/GlAx27RQ8mvDiWzOyYfy",
+      "contentRating": "Everyone",
+      "rating": {
+        "count": 62,
+        "average": 4.4
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Adventure",
+        "Puzzle/Trivia"
+      ],
+      "url": "ouya://launcher/details?app=com.nightlightinteractive.ww",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "fc10c2fdebc0941aebe45ca42d6de125"
+        },
+        "versionNumber": "1.21",
+        "uuid": "7a6f354d-2078-4da5-8f87-31c9afcf6793"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Night Light Interactive",
+        "identifier": "0",
+        "name": "Full Game",
+        "localPrice": 8.99,
+        "originalPrice": 8.99,
+        "percentOff": 0,
+        "currency": "EUR",
+        "description": "Full game unlock for Whispering Willows!"
+      },
+      "premium": false,
+      "type": "app",
+      "package": "com.nightlightinteractive.ww",
+      "updated_at": 1421708589,
+      "updatedAt": "2015-01-19T23:03:09Z",
+      "title": "Whispering Willows",
+      "image": "https://www.filepicker.io/api/file/J656P6lKRdWUxMno98NJ",
+      "contentRating": "12+",
+      "rating": {
+        "count": 316,
+        "average": 4.36
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Meditative",
+        "Platformer",
+        "Puzzle/Trivia"
+      ],
+      "url": "ouya://launcher/details?app=com.bedtime.backtobed",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "b11997273b836cac5dc81c667c0214da"
+        },
+        "versionNumber": "1.0.3",
+        "uuid": "e5a6c616-c5ed-413f-9894-7f6675ca7aaf"
+      },
+      "inAppPurchases": false,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Bedtime Digital Games",
+        "identifier": "backtobed",
+        "name": "Back to Bed",
+        "localPrice": 3.59,
+        "originalPrice": 3.59,
+        "percentOff": 0,
+        "currency": "EUR",
+        "description": "3D puzzle with a unique and artistic dream world wherein you guide a sleepwalker."
+      },
+      "premium": true,
+      "type": "app",
+      "package": "com.bedtime.backtobed",
+      "updated_at": 1410959937,
+      "updatedAt": "2014-09-17T13:18:57Z",
+      "title": "Back to Bed",
+      "image": "https://www.filepicker.io/api/file/s8TYVxSsQNOiJvyGcYIv",
+      "contentRating": "9+",
+      "rating": {
+        "count": 132,
+        "average": 4.56
+      }
+    },
+    {
+      "gamerNumbers": [
+        1,
+        2
+      ],
+      "genres": [
+        "Adventure",
+        "Arcade/Pinball",
+        "Dual Stick",
+        "FPS/Shooter",
+        "Fight!",
+        "Kids List",
+        "Multiplayer",
+        "Racing",
+        "Short on Time?"
+      ],
+      "url": "ouya://launcher/details?app=com.media.playcast.OUYA.BAA",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "39931a3179e6c984771f0f1f49b59e87"
+        },
+        "versionNumber": "1.6.35707.8",
+        "uuid": "abe8eeb3-4fd9-45bb-ba6b-50eb9d60478b"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": null,
+      "premium": false,
+      "type": "app",
+      "package": "com.media.playcast.OUYA.BAA",
+      "updated_at": 1433234808,
+      "updatedAt": "2015-06-02T08:46:48Z",
+      "title": "GameFly Packful Of Fun",
+      "image": "https://www.filepicker.io/api/file/05y2T8cKTY6cUfX7RYFR",
+      "contentRating": "17+",
+      "rating": {
+        "count": 394,
+        "average": 4.09
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Arcade/Pinball",
+        "Kids List",
+        "Platformer",
+        "Racing"
+      ],
+      "url": "ouya://launcher/details?app=uk.co.hellogames.jdtouch",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "0b32a6ba390be2cdf72356843bf4a195"
+        },
+        "versionNumber": "0.0.31",
+        "uuid": "28355ffd-8586-41dd-802a-e14837d54717"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Hello Games Ltd",
+        "identifier": "jd_touch",
+        "name": "Joe Danger",
+        "localPrice": 3.59,
+        "originalPrice": 3.59,
+        "percentOff": 0,
+        "currency": "EUR",
+        "description": "Wear the cape of the World’s Most Determined Stuntman, and take your trusty motorbike on a wild ride from zero to hero!"
+      },
+      "premium": true,
+      "type": "app",
+      "package": "uk.co.hellogames.jdtouch",
+      "updated_at": 1425985136,
+      "updatedAt": "2015-03-10T10:58:56Z",
+      "title": "Joe Danger",
+      "image": "https://www.filepicker.io/api/file/WzgsPzYQFeROlL2HuNeg",
+      "contentRating": "Everyone",
+      "rating": {
+        "count": 76,
+        "average": 4.38
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Adventure",
+        "Puzzle/Trivia"
+      ],
+      "url": "ouya://launcher/details?app=com.AmanitaDesign.Machinarium.OUYA",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "d6efc43c841636440ca9de2ab537c96e"
+        },
+        "versionNumber": "2.6",
+        "uuid": "cf2f8034-4511-4f50-8528-3ff60b711048"
+      },
+      "inAppPurchases": false,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Amanita Design s.r.o.",
+        "identifier": "Machinarium_Unlock",
+        "name": "Machinarium_Unlock",
+        "localPrice": 4.49,
+        "originalPrice": 4.49,
+        "percentOff": 0,
+        "currency": "EUR",
+        "description": "test"
+      },
+      "premium": true,
+      "type": "app",
+      "package": "com.AmanitaDesign.Machinarium.OUYA",
+      "updated_at": 1432571539,
+      "updatedAt": "2015-05-25T16:32:19Z",
+      "title": "Machinarium",
+      "image": "https://www.filepicker.io/api/file/tdHkw3pYT0axhP6JkHrK",
+      "contentRating": "Everyone",
+      "rating": {
+        "count": 38,
+        "average": 4.87
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Arcade/Pinball",
+        "Puzzle/Trivia",
+        "Retro"
+      ],
+      "url": "ouya://launcher/details?app=com.toa.tetrisFusionOuya",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "ad1f58f365859e5bc0db8c237b4c4514"
+        },
+        "versionNumber": "2.0.1r",
+        "uuid": "0fba3bba-83e0-4e3e-9f29-409258429757"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Tetris Online, Inc.",
+        "identifier": "TBOE_Mode2P_1-50",
+        "name": "2P VS Battle Mode",
+        "localPrice": 4.49,
+        "originalPrice": 4.49,
+        "percentOff": 0,
+        "currency": "EUR",
+        "description": "Play head-to-head against another opponent. If you don't have a second controller connected, you can play against a CPU-controlled opponent."
+      },
+      "premium": false,
+      "type": "app",
+      "package": "com.toa.tetrisFusionOuya",
+      "updated_at": 1417574067,
+      "updatedAt": "2014-12-03T02:34:27Z",
+      "title": "Tetris Battle Fusion",
+      "image": "https://www.filepicker.io/api/file/l08xBSjORUKUn7H8jSlp",
+      "contentRating": "Everyone",
+      "rating": {
+        "count": 861,
+        "average": 3.73
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Arcade/Pinball",
+        "Platformer"
+      ],
+      "url": "ouya://launcher/details?app=com.AGameAWeek.SpikeDislike3",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "b966974271e1b2f1f31f44ada0e6f7b4"
+        },
+        "versionNumber": "1.0",
+        "uuid": "f5584c0a-b891-4d8d-925e-eb54f5834319"
+      },
+      "inAppPurchases": false,
+      "promotedProduct": null,
+      "premium": false,
+      "type": "app",
+      "package": "com.AGameAWeek.SpikeDislike3",
+      "updated_at": 1433161456,
+      "updatedAt": "2015-06-01T12:24:16Z",
+      "title": "SpikeDislike3",
+      "image": "https://www.filepicker.io/api/file/sixoRxauRdGNySvdFQMi",
+      "contentRating": "Everyone",
+      "rating": {
+        "count": 13,
+        "average": 4.54
+      }
+    }
+  ],
+  "title": "home"
+}

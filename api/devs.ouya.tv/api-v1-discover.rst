@@ -39,7 +39,7 @@ details.
 
 ``rows``
 --------
-Object with several properties:
+Array with objects that have with several properties:
 
 ``showPrice``
   ``true`` or ``false``
@@ -60,9 +60,32 @@ Object with several properties:
 
 ``tiles``
 ---------
-Describes a single application.
+Array of objects that each describe a single application.
+
 The position in the ``tiles`` array is the ID used by ``rows/tiles``.
 
+``bundle``
+  Only there when it's not a single game but a bundle of games that can be
+  bought.
+
+  Object with the following properties:
+
+  ``apps``
+    array
+
+    Array of ``package`` strings
+  ``currency``
+    ``EUR``
+  ``price``
+    float
+  ``contentRating``
+    See ``contentRating`` description below.
+  ``purchaseUrl``
+    string
+
+    URL where to initiate buying the bundle
+
+    ``ouya://launcher/purchase?developer=ec1a9ccd-373f-4047-bd07-36466ab7e25d&product=ROBOBUNDLE``
 ``contentRating``
   For which audiences the game is meant
 
@@ -82,13 +105,37 @@ The position in the ``tiles`` array is the ID used by ``rows/tiles``.
   Array of strings with genre titles.
 
   ``["Fight!", "Multiplayer", "Platformer"]``
+
+  Known genres:
+
+  - Adventure
+  - App
+  - Arcade/Pinball
+  - Card/Casino
+  - Dual Stick
+  - Entertainment
+  - Fight!
+  - FPS/Shooter
+  - Kids List
+  - Meditative
+  - Multiplayer
+  - Music
+  - Platformer
+  - Puzzle/Trivia
+  - Racing
+  - Retro
+  - Role-Playing
+  - Short on Time?
+  - Sim/Strategy
+  - Sports
+  - Utility
+  - Video
 ``image``
   URL to an image displayed in store view.
 
   Size should be 732x412.
 
-  ``png`` works.
-  FIXME: test ``jpg``
+  ``.jpg`` and ``.png`` files work.
 ``inAppPurchases``
   ``true`` or ``false``
 
@@ -113,6 +160,8 @@ The position in the ``tiles`` array is the ID used by ``rows/tiles``.
   FIXME: What is that for?
 ``promotedProduct``
   object
+
+  Bundles do not have this property set.
 
   ??? FIXME: What is that for?
 
@@ -165,6 +214,8 @@ The position in the ``tiles`` array is the ID used by ``rows/tiles``.
   Name of the app/game
 ``type``
   ``app`` or ``discover`` or ``details_page``
+
+  Bundles always have ``details_page``.
 ``updated_at``
   integer
 
@@ -180,6 +231,11 @@ The position in the ``tiles`` array is the ID used by ``rows/tiles``.
 
   URL for the game details page
 
+``title``
+---------
+string
+
+Always ``DISCOVER``.
 
 
 Example
