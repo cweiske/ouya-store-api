@@ -1,0 +1,482 @@
+{
+  "bundle": {
+    "apps": [
+      {
+        "gamerNumbers": [
+          1
+        ],
+        "genres": [
+          "Adventure",
+          "Kids List",
+          "Puzzle/Trivia"
+        ],
+        "url": "ouya://launcher/details?app=com.GoldenTricycle.Clark",
+        "latestVersion": {
+          "apk": {
+            "md5sum": "a674b6c205502d9b4a907ade90307ba0"
+          },
+          "versionNumber": "1.24",
+          "uuid": "7230ac05-d24c-4347-a990-7ac283c17063"
+        },
+        "inAppPurchases": true,
+        "promotedProduct": {
+          "type": "entitlement",
+          "developerName": "GoldenTricycle / Hahn Film AG",
+          "identifier": "clark_full_license_test",
+          "name": "Clarc Full Version",
+          "localPrice": 3.99,
+          "originalPrice": 3.99,
+          "percentOff": 0,
+          "currency": "USD",
+          "description": "This item unlocks the full game with 25 levels, more than 100 puzzles and more than 10 hours of gameplay."
+        },
+        "premium": false,
+        "type": "app",
+        "package": "com.GoldenTricycle.Clark",
+        "updated_at": 1384854785,
+        "updatedAt": "2013-11-19T09:53:05Z",
+        "title": "CLARC",
+        "image": "https://www.filepicker.io/api/file/VzCsgc3BTx2RiGpTr4Uw",
+        "contentRating": "Everyone",
+        "rating": {
+          "count": 716,
+          "average": 4.25
+        }
+      },
+      {
+        "gamerNumbers": [
+          1
+        ],
+        "genres": [
+          "Adventure",
+          "Kids List",
+          "Platformer",
+          "Puzzle/Trivia",
+          "Short on Time?"
+        ],
+        "url": "ouya://launcher/details?app=com.Tripleslash.MagneticByNature",
+        "latestVersion": {
+          "apk": {
+            "md5sum": "292ab563a8433605cdf23451f11b08eb"
+          },
+          "versionNumber": "1.1",
+          "uuid": "3cf737cb-8056-4749-be66-e0c6a6fd2d47"
+        },
+        "inAppPurchases": true,
+        "promotedProduct": {
+          "type": "entitlement",
+          "developerName": "Team Tripleslash",
+          "identifier": "MBN",
+          "name": "Magnetic By Nature",
+          "localPrice": 9.99,
+          "originalPrice": 9.99,
+          "percentOff": 0,
+          "currency": "USD",
+          "description": ""
+        },
+        "premium": false,
+        "type": "app",
+        "package": "com.Tripleslash.MagneticByNature",
+        "updated_at": 1413442225,
+        "updatedAt": "2014-10-16T06:50:25Z",
+        "title": "Magnetic By Nature",
+        "image": "https://www.filepicker.io/api/file/ZdNdXMJ9SGKWt606otxg",
+        "contentRating": "9+",
+        "rating": {
+          "count": 101,
+          "average": 4.09
+        }
+      },
+      {
+        "gamerNumbers": [
+          1
+        ],
+        "genres": [
+          "Arcade/Pinball",
+          "Platformer",
+          "Puzzle/Trivia"
+        ],
+        "url": "ouya://launcher/details?app=com.scaryrobot.badbadbots",
+        "latestVersion": {
+          "apk": {
+            "md5sum": "dfeb384a80a2cb4edb81124549378876"
+          },
+          "versionNumber": "1.0.1",
+          "uuid": "6baabf0d-ab12-45bf-ba84-d939fd449553"
+        },
+        "inAppPurchases": true,
+        "promotedProduct": {
+          "type": "entitlement",
+          "developerName": "Scary Robot Productions",
+          "identifier": "stb_full_game",
+          "name": "Unlock the Full Game",
+          "localPrice": 1.99,
+          "originalPrice": 1.99,
+          "percentOff": 0,
+          "currency": "USD",
+          "description": "Unlock the full game, including 75 new levels."
+        },
+        "premium": false,
+        "type": "app",
+        "package": "com.scaryrobot.badbadbots",
+        "updated_at": 1393472817,
+        "updatedAt": "2014-02-27T03:46:57Z",
+        "title": "Stop The Bots",
+        "image": "https://www.filepicker.io/api/file/8oZUmfyQ226UHr3DE5Pw",
+        "contentRating": "Everyone",
+        "rating": {
+          "count": 248,
+          "average": 3.79
+        }
+      },
+      {
+        "gamerNumbers": [
+          1
+        ],
+        "genres": [
+          "Multiplayer",
+          "Platformer",
+          "Short on Time?"
+        ],
+        "url": "ouya://launcher/details?app=com.Thinice.TwinRobots",
+        "latestVersion": {
+          "apk": {
+            "md5sum": "8f7b2014d649297df255ef6ddf0380b5"
+          },
+          "versionNumber": "1.83",
+          "uuid": "d6192b56-9ca9-4f06-901c-e6b585b76091"
+        },
+        "inAppPurchases": true,
+        "promotedProduct": {
+          "type": "entitlement",
+          "developerName": "Thinice",
+          "identifier": "TwinRobots_Unlock",
+          "name": "Twin Robots - Unlock all levels",
+          "localPrice": 4.99,
+          "originalPrice": 4.99,
+          "percentOff": 0,
+          "currency": "USD",
+          "description": ""
+        },
+        "premium": false,
+        "type": "app",
+        "package": "com.Thinice.TwinRobots",
+        "updated_at": 1410191849,
+        "updatedAt": "2014-09-08T15:57:29Z",
+        "title": "Twin Robots",
+        "image": "https://www.filepicker.io/api/file/yHSrQGsSTSGBodBUnvss",
+        "contentRating": "9+",
+        "rating": {
+          "count": 196,
+          "average": 3.58
+        }
+      }
+    ],
+    "currency": "EUR",
+    "price": 6.99,
+    "contentRating": "9+",
+    "purchased": false,
+    "games": [
+      "com.GoldenTricycle.Clark",
+      "com.Tripleslash.MagneticByNature",
+      "com.Thinice.TwinRobots",
+      "com.scaryrobot.badbadbots"
+    ],
+    "purchaseUrl": "ouya://launcher/purchase?developer=ec1a9ccd-373f-4047-bd07-36466ab7e25d&product=ROBOBUNDLE"
+  },
+  "buttons": [],
+  "apps": [],
+  "muted": true,
+  "metaData": [
+    "Golden Tricycle",
+    "Team Tripleslash",
+    "Scary Robot",
+    "Thinice"
+  ],
+  "mediaTiles": [
+    {
+      "url": "https://vimeo.com/84689664",
+      "type": "video"
+    },
+    {
+      "url": "http://vimeo.com/112085754",
+      "type": "video"
+    },
+    {
+      "url": "https://vimeo.com/87213061",
+      "type": "video"
+    },
+    {
+      "url": "https://vimeo.com/82265024",
+      "type": "video"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150202-3-6hikjv.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/oivu9a_RackMultipart20150202-15-1sg3fmt"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-9dup5r.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/it2iwu_RackMultipart20150203-15-1rsk4n7"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1lsw4o3.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/r2829b_RackMultipart20150203-15-1mz6yga"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-v8f93p.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/4smu51_RackMultipart20150203-15-60bm65"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1rrfr00.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/xx5n68_RackMultipart20150203-15-8tyd1h"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-o5quh2.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/n2w6zx_RackMultipart20150203-15-khs6c1"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-gmo8ch.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/lzgp7x_RackMultipart20150203-15-qxzbvu"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-j5xj97.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/d1yia6_RackMultipart20150203-15-1ckakhz"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1xj6qi6.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/2mmztz_RackMultipart20150203-15-12hxjwy"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-xfmb0v.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/ml0cbi_RackMultipart20150203-15-iyo0ya"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1jn5r7e.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/h9gr8e_RackMultipart20150203-15-1pux7n7"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-a0ofa.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/a7ymrn_RackMultipart20150203-15-1f6hwe7"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1tdqlsg.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/b7tad7_RackMultipart20150203-15-1suh5wt"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1s4ovl8.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/s3siag_RackMultipart20150203-15-ozm6k9"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-ynvowx.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/5edm7z_RackMultipart20150203-15-5vh22f"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1oeosg8.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/teee71_RackMultipart20150203-15-1vls2my"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1rp8ioe.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/ofp916_RackMultipart20150203-15-1nvqswn"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-nuuwya.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/3w19rt_RackMultipart20150203-15-uko82z"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1ffdniz.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/ybe0uw_RackMultipart20150203-15-s9qlam"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-7xljq4.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/c7yl4p_RackMultipart20150203-15-mq9mod"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-6mnqij.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/pakgt_RackMultipart20150203-15-6bwsmp"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1krrt1f.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/tnojnx_RackMultipart20150203-15-17kcxzw"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-gmqqox.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/lweo58_RackMultipart20150203-15-1cwiytp"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-lvop3m.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/1vo70l_RackMultipart20150203-15-v164w7"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1l8hwmj.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/iyp1um_RackMultipart20150203-15-aq3pvk"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1talrh8.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/2mg5u_RackMultipart20150203-15-fygoqx"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1ki5wfc.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/2qos5v_RackMultipart20150203-15-1u70f29"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1hm6ppk.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/9fe0c1_RackMultipart20150203-15-186dcnu"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-etc8xe.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/tfsn92_RackMultipart20150203-15-112zb8a"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-c0ygib.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/5amjzu_RackMultipart20150203-15-8s2tg2"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1ob8z47.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/cqadpo_RackMultipart20150203-15-wngkd6"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-kyy1h2.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/td2kt9_RackMultipart20150203-15-1avgqyl"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-16ybd5l.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/eavtya_RackMultipart20150203-15-1kmbygh"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-df2gxi.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/ffitne_RackMultipart20150203-15-3srbzi"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1dddd6w.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/7eecuz_RackMultipart20150203-15-zwnx6u"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-10j3uu.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/pzyki0_RackMultipart20150203-15-i4pd2l"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-1kg7cja.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/hw312z_RackMultipart20150203-15-1uuf5gp"
+      },
+      "type": "image"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150203-3-33hwsd.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/u9ronc_RackMultipart20150203-15-1u4k10p"
+      },
+      "type": "image"
+    }
+  ],
+  "description": "CLARC, Magnetic By Nature, Stop The Bots, & Twin Robots all for 60% off the price of purchasing them all separately!  This bundle will only be available until February 17th, so act faster than a cyborg on skates!\r\n\r\nAbout CLARC\r\nCLARC is an action-loaded puzzle adventure. It combines complex spatial puzzles with arcade style action elements and an epic storyline. As the story unfolds, the nerdy forklift robot Clarc will encounter partying robots, attractive nuclear missiles, intoxicated supercomputers, save the facility from an intruding spaceship and kill M.O.T.H.E.R. CLARC features 25 levels with 100 puzzles and more than 10 hours of gaming. Our grid-based gameplay and tight controls will give you the retro feel of your first console.\r\n\r\nAdditional language support for German, Spanish, Russian, and French.\r\n\r\n\r\nAbout Magnetic By Nature\r\nMagnetic By Nature is platforming without platforms: a fast-paced, single-player, 2D adventure mixing fluid motion, split-second decision making, machine-age visuals, and a dynamic soundscape. Unique magnet physics propel the player from one challenge to the next.  Point One, the last remaining robot, must journey through dangerous caverns and forgotten ruins to reactivate friends damaged in a magnetic cataclysm.\r\n\r\nFeaturing:\r\n• physics-based puzzles action\r\n• cross platform leaderboards\r\n• 120+ levels, including unlockable challenges and hidden bonus rounds!\r\n• 100+ optional collectibles requiring greater skill\r\n• 2 unlockable Speedrun play modes\r\n• 9 types of magnets\r\n• 2 types of magnetic force fields\r\n\r\nAccolades:\r\n• 2014 Indie Mix Featured Game\r\n• Best Developed Game And Audience Choice Award - 2013 Utah Game Wars\r\n• Soundtrack featured in Loudr’s Game Music Bundle #7\r\n• \"Magnetic By Nature delivers an unforgettable experience\" - Hardcore Gamer\r\n\r\n\r\nAbout Stop The Bots\r\nOnly you can stop the robot filled alien ship from attacking Earth by sneaking on board and disabling it from the inside! \"Stop The Bots\" perfectly blends arcade action and logic puzzles over 90 brain bending levels!\r\n\r\n\r\nAbout Twin Robots\r\nRescue your twin and find the way out of each level together!\r\nSwitch control between the two robots at any time, or even better: play with a friend in local multiplayer!\r\nYou'll be running, jumping & solving puzzles together, but beware: Both robots are battery-powered so they consume energy in everything they do. Watch out for their battery levels!\r\n\r\nNew in this update:\r\n- Changed leaderboards to a self-hosted solution.\r\n- Fixed a bug that made the robots fall through the floor when jumping from a moving platform.",
+  "title": "ROBO GAME BUNDLE!"
+}

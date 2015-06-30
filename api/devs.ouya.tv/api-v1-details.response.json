@@ -1,0 +1,89 @@
+{
+  "bundle": {
+    "apps": [
+      {
+        "gamerNumbers": [
+          1
+        ],
+        "genres": [
+          "Adventure",
+          "Kids List",
+          "Puzzle/Trivia"
+        ],
+        "url": "ouya://launcher/details?app=com.GoldenTricycle.Clark",
+        "latestVersion": {
+          "apk": {
+            "md5sum": "a674b6c205502d9b4a907ade90307ba0"
+          },
+          "versionNumber": "1.24",
+          "uuid": "7230ac05-d24c-4347-a990-7ac283c17063"
+        },
+        "inAppPurchases": true,
+        "promotedProduct": {
+          "type": "entitlement",
+          "developerName": "GoldenTricycle / Hahn Film AG",
+          "identifier": "clark_full_license_test",
+          "name": "Clarc Full Version",
+          "localPrice": 3.99,
+          "originalPrice": 3.99,
+          "percentOff": 0,
+          "currency": "USD",
+          "description": "This item unlocks the full game with 25 levels, more than 100 puzzles and more than 10 hours of gameplay."
+        },
+        "premium": false,
+        "type": "app",
+        "package": "com.GoldenTricycle.Clark",
+        "updated_at": 1384854785,
+        "updatedAt": "2013-11-19T09:53:05Z",
+        "title": "CLARC",
+        "image": "https://www.filepicker.io/api/file/VzCsgc3BTx2RiGpTr4Uw",
+        "contentRating": "Everyone",
+        "rating": {
+          "count": 716,
+          "average": 4.25
+        }
+      },
+      {
+        "gamerNumbers": [
+          1
+        ],
+        [...]
+      }
+    ],
+    "currency": "EUR",
+    "price": 6.99,
+    "contentRating": "9+",
+    "purchased": false,
+    "games": [
+      "com.GoldenTricycle.Clark",
+      "com.Tripleslash.MagneticByNature",
+      "com.Thinice.TwinRobots",
+      "com.scaryrobot.badbadbots"
+    ],
+    "purchaseUrl": "ouya://launcher/purchase?developer=ec1a9ccd-373f-4047-bd07-36466ab7e25d&product=ROBOBUNDLE"
+  },
+  "buttons": [],
+  "apps": [],
+  "muted": true,
+  "metaData": [
+    "Golden Tricycle",
+    "Team Tripleslash",
+    "Scary Robot",
+    "Thinice"
+  ],
+  "mediaTiles": [
+    {
+      "url": "https://vimeo.com/84689664",
+      "type": "video"
+    },
+    {
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150202-3-6hikjv.jpeg",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/oivu9a_RackMultipart20150202-15-1sg3fmt"
+      },
+      "type": "image"
+    }
+  ],
+  "description": "CLARC, Magnetic By Nature\r\n\r\nAbout CLARC\r\n",
+  "title": "ROBO GAME BUNDLE!"
+}
