@@ -1,2 +1,2 @@
 #!/bin/sh
-rst2html README.rst README.html
+rst2html README.rst ouya-store-api-docs.htm

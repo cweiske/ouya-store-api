@@ -48,4 +48,21 @@ About
 This documentation has been written by Christian Weiske,
 cweiske+ouya@cweiske.de.
 
+
+License
+=======
 It is licensed under the GNU Free Documentation License.
+
+
+Source code
+===========
+The documentation sources are available at
+http://git.cweiske.de/ouya-store-api.git/
+and mirrored at
+https://github.com/cweiske/ouya-store-api
+
+
+Home page
+=========
+A rendered version of this documentation is available at
+http://cweiske.de/ouya-store-api-docs.htm
