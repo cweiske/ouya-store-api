@@ -1,0 +1,16 @@
+{
+  "queue": [
+    {
+      "versionUuid": "",
+      "title": "Tetris Battle Fusion",
+      "source": "new-user",
+      "uuid": "com.toa.tetrisFusionOuya"
+    },
+    {
+      "versionUuid": "",
+      "title": "BombSquad",
+      "source": "new-user",
+      "uuid": "net.froemling.bombsquad"
+    }
+  ]
+}
