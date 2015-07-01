@@ -1,0 +1,55 @@
+{
+  "app": {
+    "videoUrl": "http://vimeo.com/81224217",
+    "publishedAt": "2015-05-19T19:28:47Z",
+    "firstPublishedAt": "2013-04-30T21:10:07Z",
+    "latestVersion": "b1396eb2-6b3f-4ccd-82f8-fadc05094931",
+    "promotedProduct": {
+      "originalPrice": 4.49,
+      "localPrice": 4.49,
+      "percentOff": 0,
+      "description": "Doubles tickets earned in-game, gives a power-ranking bonus, and more..",
+      "currency": "EUR",
+      "name": "BombSquad Pro",
+      "identifier": "FullGameBombSquad"
+    },
+    "genres": [
+      "Fight!",
+      "Multiplayer",
+      "Sports"
+    ],
+    "premium": false,
+    "description": "8 Player Party Game Madness!\nBlow up your friends in mini-games ranging from capture-the-flag to hockey.\nFeaturing gratuitous explosions, advanced ragdoll face-plant physics, pirates, ninjas, barbarians, insane chefs, and more.\nSupports PS3 controllers, XBox 360 controllers, most USB/Bluetooth gamepads, and even iOS and Android devices as controllers via the free 'BombSquad Remote' app.\nBombs Away!\n\nVersion history:\n1.4.17 - new global player profiles and custom icons\n1.4.16 - added continues and polishing\n1.4.14 - bug fixes\n1.4.11 - New tournament and league functionality\n1.4.9 - Santa and Frosty are back for the holidays! Also a new map and new tournament.\n1.4.8 - added Bernard the Bear and new tournament types\n1.4.7 - added 'easy' mode for campaign, 2 new mini-games, more tournament types, and more trophies\n1.4.6 - Net-play (preview), Replays, Co-op Tournaments, new unlockables, cloud saves, and lots more",
+    "developer": "Eric Froemling",
+    "gamerNumbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "ratingCount": 3041,
+    "ratingAverage": 4.42,
+    "apkFileSize": 49817654,
+    "founder": false,
+    "mainImageFullUrl": "https://devs-ouya-tv-prod.s3.amazonaws.com/apps/6bbb461b-eab7-4d8a-90ba-9c4c2c02d463/net.froemling.bombsquad/b1396eb2-6b3f-4ccd-82f8-fadc05094931/ouya_icon.png",
+    "website": "http://www.froemling.net/apps/bombsquad",
+    "supportPhone": null,
+    "supportEmailAddress": "support@froemling.net",
+    "title": "BombSquad",
+    "uuid": "b1396eb2-6b3f-4ccd-82f8-fadc05094931",
+    "versionNumber": "1.4.17",
+    "likeCount": 3478,
+    "overview": "Released in May 2015 by Eric Froemling.",
+    "filepickerScreenshots": [
+      "https://www.filepicker.io/api/file/75dSamHkQiuKpg7o3DXF",
+      "https://www.filepicker.io/api/file/g0sFFV1Tc2gidAYkaQPU",
+      "https://www.filepicker.io/api/file/zswgv6FOQcqZWt7oyV00",
+      "https://www.filepicker.io/api/file/51a1JNYKRaeQAAVeNedw",
+      "https://www.filepicker.io/api/file/0dnBNiw2Sser5X8kpezG"
+    ],
+    "contentRating": "9+",
+    "md5sum": "e1a734acba287777da24fe5eaf8101c0",
+    "publicSize": 508390,
+    "nativeSize": 10455000
+  }
+}
