@@ -23,6 +23,9 @@ Path
 
   ``xxx``
     The ``uuid`` value from the queued downloads list.
+
+  Example: ``/api/v1/queued_downloads/net.froemling.bombsquad``
+
 Headers
   Standard headers
 
