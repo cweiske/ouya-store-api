@@ -24,6 +24,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-agreements.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-agreements.put.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-consoles.rst
+.. include:: api/devs.ouya.tv/api-v1-games-xxx-purchases.rst
 .. include:: api/devs.ouya.tv/api-v1-premium_purchases.rst
 .. include:: api/devs.ouya.tv/api-v1-sessions.rst
 .. include:: api/devs.ouya.tv/api-v1-themes.rst
