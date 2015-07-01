@@ -2,7 +2,7 @@
 OUYA store API documentation
 ****************************
 
-This is an attempt to document the API used by OUYA gaming devices to
+This is an attempt to document the API used by OUYA gaming consoles to
 speak with ``devs.ouya.tv``.
 
 .. contents::
@@ -66,3 +66,16 @@ Home page
 =========
 A rendered version of this documentation is available at
 http://cweiske.de/ouya-store-api-docs.htm
+
+
+
+Building
+========
+You need to install ``rst2html5`` before::
+
+    $ pip install rst2html5-tools
+
+Rendering the docs is done via a build script::
+
+    $ ./build.sh
+
