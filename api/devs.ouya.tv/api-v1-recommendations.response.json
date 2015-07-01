@@ -1,0 +1,37 @@
+{
+  "games": [
+    {
+      "rating": {
+        "count": 716,
+        "average": 4.25
+      },
+      "image": "https://www.filepicker.io/api/file/VzCsgc3BTx2RiGpTr4Uw",
+      "content_rating": "Everyone",
+      "version": "7230ac05-d24c-4347-a990-7ac283c17063",
+      "uuid": "com.GoldenTricycle.Clark",
+      "title": "CLARC"
+    },
+    {
+      "rating": {
+        "count": 1108,
+        "average": 3.49
+      },
+      "image": "https://www.filepicker.io/api/file/ej3IxeX8SwKZW5uFOw9g",
+      "content_rating": "Everyone",
+      "version": "544236ed-6dde-4b9e-8c4f-ac6e8b91bcd3",
+      "uuid": "com.sega.sonic4epi",
+      "title": "Sonic The Hedgehog 4 Episode I"
+    },
+    {
+      "rating": {
+        "count": 522,
+        "average": 4.38
+      },
+      "image": "https://www.filepicker.io/api/file/s8HCRKaSB8wF2hSKbBzQ",
+      "content_rating": "Everyone",
+      "version": "29457560-1669-45ce-bb19-88c1651c7552",
+      "uuid": "com.x10studio.SoManyMe",
+      "title": "So Many Me"
+    }
+  ]
+}
