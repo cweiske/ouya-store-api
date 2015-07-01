@@ -1,0 +1,55 @@
+{
+  "app": {
+    "videoUrl": null,
+    "publishedAt": "2014-12-05T20:30:48Z",
+    "firstPublishedAt": "2014-08-25T03:35:11Z",
+    "latestVersion": "0fba3bba-83e0-4e3e-9f29-409258429757",
+    "promotedProduct": {
+      "originalPrice": 4.49,
+      "localPrice": 4.49,
+      "percentOff": 0,
+      "description": "Play head-to-head against another opponent. If you don't have a second controller connected, you can play against a CPU-controlled opponent.",
+      "currency": "EUR",
+      "name": "2P VS Battle Mode",
+      "identifier": "TBOE_Mode2P_1-50"
+    },
+    "genres": [
+      "Puzzle/Trivia",
+      "Arcade/Pinball",
+      "Retro"
+    ],
+    "premium": false,
+    "description": "Tetris® Battle: Fusion is now available on OUYA!  Based on Tetris Battle, the hugely popular multiplayer game on Facebook that has been downloaded over 60 million times, Tetris Battle: Fusion introduces an all-new interactive adventure where you can battle your way through a series of challenging opponents and goals to become a Tetris Master!  Collect special Amulets that can be used to give you an added boost as you progress your way to victory.  Over 50 Amulets are ready to collect, and more will be added periodically. With the help of Amulets, don't change the way you play ... change the way you WIN!  The game also features a 1v1 local co-op mode that enables friends in the same room to go head-to-head using previously earned Amulets.\r\n\r\nPLEASE NOTE: This app contains in-app purchasing, which allows you to buy items within the app using actual money.",
+    "developer": "Tetris Online, Inc.",
+    "gamerNumbers": [
+      1
+    ],
+    "ratingCount": 861,
+    "ratingAverage": 3.73,
+    "apkFileSize": 41125055,
+    "founder": false,
+    "mainImageFullUrl": "https://devs-ouya-tv-prod.s3.amazonaws.com/apps/a137f31c-ad28-47e6-ae43-0a346ebe249a/com.toa.tetrisFusionOuya/0fba3bba-83e0-4e3e-9f29-409258429757/ouya_icon.png",
+    "website": "www.tetrisonline.com",
+    "supportPhone": null,
+    "supportEmailAddress": "support@tetrisonline.com",
+    "title": "Tetris Battle Fusion",
+    "uuid": "0fba3bba-83e0-4e3e-9f29-409258429757",
+    "versionNumber": "2.0.1r",
+    "likeCount": 0,
+    "overview": "Released in December 2014 by Tetris Online, Inc..",
+    "filepickerScreenshots": [
+      "https://www.filepicker.io/api/file/fio2PmJQQla1fZdVEZxl",
+      "https://www.filepicker.io/api/file/VESfV97VTSn4uRp5lY9A",
+      "https://www.filepicker.io/api/file/To75Tn2Tw6J7nvPG4nBk",
+      "https://www.filepicker.io/api/file/bjzlwTjvQe6HA4awlHTw",
+      "https://www.filepicker.io/api/file/qcQEibHxT9Wa1PCoMpX2",
+      "https://www.filepicker.io/api/file/kQKVJ2xyRnCnmysUjZkD",
+      "https://www.filepicker.io/api/file/8zJEBwIBTmoFNiJyLKoY",
+      "https://www.filepicker.io/api/file/zTnyJklUSYOlpJ1E04fH"
+    ],
+    "contentRating": "Everyone",
+    "md5sum": "ad1f58f365859e5bc0db8c237b4c4514",
+    "publicSize": 258150,
+    "nativeSize": 5607144
+  }
+}

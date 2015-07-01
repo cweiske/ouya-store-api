@@ -23,7 +23,8 @@ Host
 Path
   ``/api/v1/games/xxx/purchases``
 
-  ``xxx`` is the app package name.
+  ``xxx``
+    app package name
 
   Example: ``/api/v1/games/com.ChrisChung.CatlateralDamage/purchases``
 Headers
