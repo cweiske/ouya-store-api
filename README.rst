@@ -6,6 +6,7 @@ This is an attempt to document the API used by OUYA gaming devices to
 speak with ``devs.ouya.tv``.
 
 .. contents::
+   :depth: 1
 
 .. include:: headers.rst
 .. include:: api/ott9.wpstn.com/live.rst
@@ -39,3 +40,12 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/agreements-marketplace.html.rst
 .. include:: api/devs.ouya.tv/update_strings.txt.rst
 .. include:: api/www.ouya.tv/system_message.rst
+
+
+=====
+About
+=====
+This documentation has been written by Christian Weiske,
+cweiske+ouya@cweiske.de.
+
+It is licensed under the GNU Free Documentation License.
