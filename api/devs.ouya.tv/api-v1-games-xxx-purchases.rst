@@ -6,6 +6,12 @@ FIXME: Check which features have been bought in an app, or if the app has been
 bought.
 
 
+Usage
+=====
+- When an app/game is featured and shown on the main menu ("home"),
+  it is checked if the app has already been purchased.
+
+
 HTTP request
 ============
 Protocol
