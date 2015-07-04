@@ -2,7 +2,7 @@
 ``GET https://devs.ouya.tv/api/v1/ratings``
 ===========================================
 
-FIXME
+Get a list of games and the ratings the user made for them.
 
 
 HTTP request
@@ -29,10 +29,9 @@ Status code
 Content-type
   ``application/json; charset=utf-8``
 
-Example (empty)::
 
-  {
-      "ratings": []
-  }
+Example
+-------
 
-FIXME: get a full example
+.. include:: api-v1-ratings.response.json
+   :code:

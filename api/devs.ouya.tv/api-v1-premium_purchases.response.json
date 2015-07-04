@@ -1,0 +1,91 @@
+{
+  "games": [
+    {
+      "gamerNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Sports"
+      ],
+      "url": "ouya://launcher/details?app=net.froemling.bombsquad",
+      "latestVersion": {
+        "apk": {
+          "md5sum": "e1a734acba287777da24fe5eaf8101c0"
+        },
+        "versionNumber": "1.4.17",
+        "uuid": "b1396eb2-6b3f-4ccd-82f8-fadc05094931"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Eric Froemling",
+        "identifier": "FullGameBombSquad",
+        "name": "BombSquad Pro",
+        "localPrice": 4.99,
+        "originalPrice": 4.99,
+        "percentOff": 0,
+        "currency": "USD",
+        "description": "Doubles tickets earned in-game, gives a power-ranking bonus, and more.."
+      },
+      "premium": false,
+      "type": "app",
+      "package": "net.froemling.bombsquad",
+      "updated_at": 1431712678,
+      "updatedAt": "2015-05-15T17:57:58Z",
+      "title": "BombSquad",
+      "image": "https://www.filepicker.io/api/file/AObi2TITPGH2bKTbSvLt",
+      "contentRating": "9+",
+      "rating": {
+        "count": 3057,
+        "average": 4.42
+      }
+    },
+    {
+      "gamerNumbers": [
+        1
+      ],
+      "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Sports"
+      ],
+      "url": "ouya://launcher/details?app=net.mountainsheep.icerage",
+      "latestVersion": {
+        "apk": {
+          "md5sum": null
+        },
+        "versionNumber": "1.8",
+        "uuid": "9ba50e67-1bb7-4ac3-8d01-36fbc8ae2566"
+      },
+      "inAppPurchases": true,
+      "promotedProduct": {
+        "type": "entitlement",
+        "developerName": "Mountain Sheep, Inc.",
+        "identifier": "ICE_RAGE_UNLOCK_FULL_GAME",
+        "name": "Unlock Full Game",
+        "localPrice": 2.99,
+        "originalPrice": 2.99,
+        "percentOff": 0,
+        "currency": "USD",
+        "description": ""
+      },
+      "premium": false,
+      "type": "app",
+      "package": "net.mountainsheep.icerage",
+      "updated_at": 1381227272,
+      "updatedAt": "2013-10-08T10:14:32Z",
+      "title": "Ice Rage",
+      "image": "https://www.filepicker.io/api/file/JLXK36xeSLCg1Faqw67Q",
+      "contentRating": "Everyone",
+      "rating": {
+        "count": 1595,
+        "average": 4.15
+      }
+    }
+  ]
+}

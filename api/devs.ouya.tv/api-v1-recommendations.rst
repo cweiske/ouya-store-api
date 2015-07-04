@@ -2,12 +2,14 @@
 ``GET https://devs.ouya.tv/api/v1/recommendations``
 ===================================================
 
-FIXME
+Get a list of games for the "you may also like" section.
+
+Games already installed on the OUYA will be shown, too - with a checkmark.
 
 
 Usage
 =====
-- FIXME: Probably when the user tries to exit a game (double-pressing ``U``)
+- When the user tries to exit a game (double-pressing ``U``)
 
 
 HTTP request
@@ -25,7 +27,10 @@ Headers
 GET parameters
   ``auth_token``
     Same as ``X-OUYA-AuthToken``
+  ``uuid``
+    Package name of the game that is being exited
 
+    Example: ``net.sourceforge.clonekeenplus``
 
 HTTP response
 =============

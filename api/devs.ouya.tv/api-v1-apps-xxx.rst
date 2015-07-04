@@ -8,7 +8,8 @@ Fetch the details for an app/game.
 Usage
 =====
 - When the user enters the detail page in the store.
-- FIXME: When the user enters the detail page for an already installed app?
+- When the user enters the detail page for an already installed app.
+- Sometimes the OUYA refreshes details of all installed apps while running.
 
 
 HTTP request

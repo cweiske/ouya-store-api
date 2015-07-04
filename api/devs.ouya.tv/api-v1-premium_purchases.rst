@@ -2,7 +2,7 @@
 ``GET https://devs.ouya.tv/api/v1/premium_purchases``
 =====================================================
 
-FIXME
+Get a list of all games that have been bought.
 
 
 HTTP request
@@ -29,10 +29,10 @@ Status code
 Content-type
   ``application/json; charset=utf-8``
 
-Example::
+Full details of the apps.
 
-  {
-      "games": []
-  }
+Example
+-------
 
-FIXME get an example with something in it.
+.. include:: api-v1-premium_purchases.response.json
+   :code:
