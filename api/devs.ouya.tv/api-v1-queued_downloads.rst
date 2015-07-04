@@ -33,6 +33,12 @@ Content-type
 
 Example
 -------
+Automatically pushed onto a fresh account:
 
 .. include:: api-v1-queued_downloads.response.json
+   :code:
+
+Manually pushed via the web site:
+
+.. include:: api-v1-queued_downloads.response-2.json
    :code:
