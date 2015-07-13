@@ -50,6 +50,8 @@ About
 This documentation has been written by Christian Weiske,
 cweiske+ouya@cweiske.de.
 
+Last update: ##UPDATE##
+
 
 License
 =======
