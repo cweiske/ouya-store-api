@@ -29,6 +29,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-consoles.rst
 .. include:: api/devs.ouya.tv/api-v1-gamers-me-user_messages.rst
 .. include:: api/devs.ouya.tv/api-v1-games-xxx-purchases.rst
+.. include:: api/devs.ouya.tv/api-v1-games-xxx-purchases.post.rst
 .. include:: api/devs.ouya.tv/api-v1-premium_purchases.rst
 .. include:: api/devs.ouya.tv/api-v1-queued_downloads-xxx.delete.rst
 .. include:: api/devs.ouya.tv/api-v1-queued_downloads.rst
