@@ -1,0 +1,10 @@
+{
+    "balance": 0.0, 
+    "credit_card": {
+        "expires_at": "09/30/2016", 
+        "last_four": "1234", 
+        "provider": "MasterCard"
+    }, 
+    "currency": "USD", 
+    "requiresPaymentMethod": true
+}

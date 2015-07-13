@@ -33,9 +33,19 @@ Status code
 Content type
   ``application/json; charset=utf-8``
 
-Example:
 
+Example without credit card data
+--------------------------------
 .. include:: api-v1-wallet.response.json
+   :code:
+
+FIXME: Find out if we get that response when giving a dummy number
+during registration (4111 1111 1111 1111).
+
+
+Example with credit card data
+-----------------------------
+.. include:: api-v1-wallet.response-2.json
    :code:
 
 FIXME: Find out if we can disable credit card input by setting
