@@ -1,0 +1,16 @@
+{
+  "developerName": "AppBarbecue Inc.",
+  "currency": "USD",
+  "products": [
+    {
+      "type": "entitlement",
+      "description": "Instantly unlock full game with all Pro Levels. The challenging puzzles will take days to solve. Explore Assyria, Hanging Gardens & more. ",
+      "percentOff": 0,
+      "originalPrice": 4.99,
+      "localPrice": 4.99,
+      "priceInCents": 499,
+      "name": "Unlock All Pro Levels",
+      "identifier": "unlock_pro"
+    }
+  ]
+}
