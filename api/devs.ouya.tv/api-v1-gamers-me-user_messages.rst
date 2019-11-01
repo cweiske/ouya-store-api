@@ -2,7 +2,10 @@
 ``GET https://devs.ouya.tv/api/v1/gamers/me/user_messages``
 ===========================================================
 
-FIXME
+Send messages to users.
+
+The API returns a list of URLs that get displayed to the user in a popup
+in the main menu.
 
 
 HTTP request
@@ -37,4 +40,10 @@ Example (empty)::
       ]
   }
 
-FIXME: get a full example
+Example (one URL)::
+
+  {
+      "messages": [
+          "https://www.ouya.tv/message_to_all_users.txt"
+      ]
+  }
