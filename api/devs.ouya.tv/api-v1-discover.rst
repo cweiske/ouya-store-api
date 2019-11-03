@@ -248,3 +248,7 @@ Example
 
 .. include:: api-v1-discover.response.json
    :code:
+
+The API git repository contains a full copy of the "discover" response
+at ``api/devs.ouya.tv/api-v1-discover.response-full.json``.
+

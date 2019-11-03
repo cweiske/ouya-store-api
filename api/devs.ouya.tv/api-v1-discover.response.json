@@ -117,6 +117,12 @@
       "title": "OUYA PRESENTS: THE JACKBOX PARTY PACK",
       "type": "details_page"
     },
+    {
+      "url": "ouya://launcher/discover/Adventure",
+      "image": "",
+      "title": "Adventure",
+      "type": "discover"
+    },
   ],
   "title": "DISCOVER"
 }
