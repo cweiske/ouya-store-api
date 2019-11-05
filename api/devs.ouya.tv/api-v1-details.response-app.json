@@ -1,0 +1,112 @@
+{
+  "type": "Game",
+  "title": "BombSquad",
+  "description": "8 Player Party Game Madness!\nBlow up your friends in mini-games ranging from capture-the-flag to hockey.\nFeaturing gratuitous explosions, advanced ragdoll face-plant physics, pirates, ninjas, barbarians, insane chefs, and more.\nSupports PS3 controllers, XBox 360 controllers, most USB/Bluetooth gamepads, and even iOS and Android devices as controllers via the free 'BombSquad Remote' app.\nBombs Away!\n\nVersion history:\n1.4.123 - Account unlinking & bug fixes\n1.4.116 - Bug fixes\n1.4.113 - Bug fixes\n1.4.105 - Shields now lose health over time and spinning too long causes you to pass out\n1.4.99 - Better language support in net-games\n1.4.98 - New netplay features such as kick votes\n1.4.94 - More netplay performance improvements\n1.4.93 - Netplay performance improvements\n1.4.88 - Public internet parties\n1.4.69 - Bug fixes and polishing\n1.4.66 - Easter edition!\n1.4.62 - new characters and bug fixes\n1.4.47 - bug fixes\n1.4.38 - bug fixes\n1.4.32 - more icons, bug fixes, and UI improvements\n1.4.17 - new global player profiles and custom icons\n1.4.16 - added continues and polishing\n1.4.14 - bug fixes\n1.4.11 - New tournament and league functionality\n1.4.9 - Santa and Frosty are back for the holidays! Also a new map and new tournament.\n1.4.8 - added Bernard the Bear and new tournament types",
+  "mediaTiles": [
+    {
+      "type": "video",
+      "url": "http://vimeo.com/81224217"
+    },
+    {
+      "type": "image",
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/thumbnail20170911-3-4r3lgn.png",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-1ja1uwj"
+      },
+      "fp_url": "https://www.filepicker.io/api/file/75dSamHkQiuKpg7o3DXF"
+    },
+    {
+      "type": "image",
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/thumbnail20170911-3-14kztkg.png",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-jg5ypv"
+      },
+      "fp_url": "https://www.filepicker.io/api/file/g0sFFV1Tc2gidAYkaQPU"
+    },
+    {
+      "type": "image",
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/thumbnail20170911-3-csiwp7.png",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-s0jlzk"
+      },
+      "fp_url": "https://www.filepicker.io/api/file/zswgv6FOQcqZWt7oyV00"
+    },
+    {
+      "type": "image",
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/thumbnail20170911-3-1615w0d.png",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-jcvr8g"
+      },
+      "fp_url": "https://www.filepicker.io/api/file/51a1JNYKRaeQAAVeNedw"
+    },
+    {
+      "type": "image",
+      "urls": {
+        "thumbnail": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/thumbnail20170911-3-1ryqwq9.png",
+        "full": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-pom01u"
+      },
+      "fp_url": "https://www.filepicker.io/api/file/0dnBNiw2Sser5X8kpezG"
+    }
+  ],
+  "heroImage": {
+    "url": "https://s3.amazonaws.com/ouya-screenshots/b9fea1c7-c0d9-445f-b424-471c1d9446d8/ouya-image20161126-3-1x3bs88"
+  },
+  "mobileAppIcon": "https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-v6tjz1",
+  "premium": false,
+  "promotedProduct": {
+    "identifier": "FullGameBombSquad",
+    "name": "BombSquad Pro",
+    "localPrice": 4.99,
+    "originalPrice": 4.99,
+    "percentOff": 0,
+    "currency": "USD",
+    "description": "Doubles tickets earned in-game, gives a power-ranking bonus, and more..",
+    "type": "entitlement"
+  },
+  "inAppPurchases": true,
+  "rating": {
+    "count": 3706,
+    "average": 4.36
+  },
+  "developer": {
+    "name": "Eric Froemling",
+    "founder": false
+  },
+  "suggestedAge": "9+",
+  "apk": {
+    "fileSize": 58535084,
+    "nativeSize": 9511196,
+    "publicSize": 571122,
+    "md5sum": "54d5d03855add2b824040e39a9380f48",
+    "filename": "1zbYKRSS1elKIYI9eseH_BombSquad-ouya-release.apk",
+    "errors": "",
+    "package": "net.froemling.bombsquad",
+    "versionCode": 14304,
+    "state": "complete"
+  },
+  "firstPublishedAt": 1367356207,
+  "version": {
+    "number": "1.4.123",
+    "publishedAt": 1506379060,
+    "uuid": "3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd"
+  },
+  "metaData": [
+    "key:rating.average",
+    "key:developer.name",
+    "key:suggestedAge",
+    "56.12 MiB"
+  ],
+  "tileImage": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/0xrPYAcTUCYpjTUPbqSV",
+  "ccUrl": null,
+  "gamerNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "genres": [
+    "Fight!",
+    "Multiplayer",
+    "Sports"
+  ]
+}
