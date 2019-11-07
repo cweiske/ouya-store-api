@@ -7,9 +7,10 @@ Fetch the details for an app/game.
 
 Usage
 =====
-- When the user enters the detail page in the store.
-- When the user enters the detail page for an already installed app.
+- When the user enters the detail page in the discover store.
 - Sometimes the OUYA refreshes details of all installed apps while running.
+
+Related to ``api/v1/details``, which is used for already installed apps.
 
 
 HTTP request
@@ -24,7 +25,9 @@ Path
   ``/api/v1/apps/xxx``
 
   ``xxx``
-    package name of an app
+    Package name of an app
+
+    Also UUID of a package release.
 
   Example: ``/api/v1/apps/com.toa.tetrisFusionOuya``
 Headers

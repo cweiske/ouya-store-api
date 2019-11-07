@@ -149,7 +149,7 @@ The position in the ``tiles`` array is the ID used by ``rows/tiles``.
   ``versionNumber``
     string with current version, e.g. ``1.11``
   ``uuid``
-    ???
+    UUID of the release.
 ``package``
   string
 

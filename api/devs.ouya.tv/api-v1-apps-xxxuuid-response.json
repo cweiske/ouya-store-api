@@ -1,0 +1,51 @@
+{
+    "app": {
+        "uuid": "15083557-535d-43a2-9ac3-a1a774f79d97",
+        "title": "Ascent of Kings",
+        "supportEmailAddress": "contact@nostatic.org",
+        "supportPhone": null,
+        "website": "https:\/\/web.archive.org\/web\/20190528042713\/http:\/\/nostaticsoftware.com\/",
+        "founder": false,
+        "versionNumber": "1.5",
+        "likeCount": 162,
+        "overview": "Released in July 2013 by Nostatic Software.",
+        "contentRating": "Everyone",
+        "publicSize": 0,
+        "nativeSize": 0,
+        "ratingAverage": 3.84,
+        "ratingCount": 88,
+        "gamerNumbers": [
+            1
+        ],
+        "developer": "Nostatic Software",
+        "description": "The death of a King. An epic challenge to choose a new ruler. Will the youngest of four brothers turn out to be the strongest? Will a boy become King? The answer is up to you.\r\n\r\n- Classic adventure-platformer gameplay.\r\n\r\n- Explore and encounter strange creatures - some harmless, some not.\r\n\r\n- Navigate dangerous passages and evade deadly traps.\r\n\r\n- Seek out elemental shrines and receive upgraded abilities.",
+        "premium": false,
+        "promotedProduct": {
+            "identifier": "ascent_full_game",
+            "name": "Ascent of Kings Full Game Unlock",
+            "currency": "USD",
+            "description": "",
+            "percentOff": 0,
+            "localPrice": 0.99,
+            "originalPrice": 0.99
+        },
+        "md5sum": null,
+        "apkFileSize": 14869324,
+        "filepickerScreenshots": [
+            "https:\/\/web.archive.org\/web\/20190528042713\/https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wwUdB7OjQEiunENVe3Lg",
+            "https:\/\/web.archive.org\/web\/20190528042713\/https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yZAvCqOQCa9GOA01iwN2",
+            "https:\/\/web.archive.org\/web\/20190528042713\/https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vuACRQYOQqq8hyOKVAtN",
+            "https:\/\/web.archive.org\/web\/20190528042713\/https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eQZ0vztqShyEDfZEsAqG"
+        ],
+        "mainImageFullUrl": "https:\/\/web.archive.org\/web\/20190528042713\/https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h6foyzx7T7CLXIfH4QIt",
+        "genres": [
+            "Adventure",
+            "Platformer"
+        ],
+        "latestVersion": "15083557-535d-43a2-9ac3-a1a774f79d97",
+        "firstPublishedAt": "2013-07-18T19:54:19Z",
+        "publishedAt": "2013-07-18T19:54:19Z",
+        "videoUrl": null,
+        "mobileAppIcon": null
+    }
+}

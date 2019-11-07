@@ -28,11 +28,16 @@ GET parameters
 
     Example: ``be239ca4-10fd-42dd-89cd-1806e80b1362``
   ``app``
-    Package ID of an app.
-
-    Only ``app`` or ``page`` is provided.
+    Package name of an app.
 
     Example: ``org.blockinger.game``
+  ``developer``
+    UUID of the developer
+
+    Example: ``5b015434-8a78-4274-aa5d-0cb2e330e50e``
+
+Only one of ``app``, ``developer`` or ``page`` is provided.
+
 
 HTTP response
 =============

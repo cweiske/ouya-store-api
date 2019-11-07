@@ -35,8 +35,8 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-games-xxx-purchases.rst
 .. include:: api/devs.ouya.tv/api-v1-games-xxx-purchases.post.rst
 .. include:: api/devs.ouya.tv/api-v1-premium_purchases.rst
-.. include:: api/devs.ouya.tv/api-v1-queued_downloads-xxx.delete.rst
 .. include:: api/devs.ouya.tv/api-v1-queued_downloads.rst
+.. include:: api/devs.ouya.tv/api-v1-queued_downloads-xxx.delete.rst
 .. include:: api/devs.ouya.tv/api-v1-ratings.rst
 .. include:: api/devs.ouya.tv/api-v1-ratings.post.rst
 .. include:: api/devs.ouya.tv/api-v1-recommendations.rst

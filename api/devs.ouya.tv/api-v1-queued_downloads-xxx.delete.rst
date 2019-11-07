@@ -22,7 +22,7 @@ Path
   ``/api/v1/queued_downloads/xxx``
 
   ``xxx``
-    The ``uuid`` value from the queued downloads list.
+    Package name. The ``uuid`` value from the queued downloads list.
 
   Example: ``/api/v1/queued_downloads/net.froemling.bombsquad``
 
@@ -30,7 +30,8 @@ Headers
   Standard headers
 
   ``uuid``
-    The ``uuid`` value from the queued downloads list.
+    The ``uuid`` value from the queued downloads list, which is actually
+    a package name and not an UUID.
     
     Same as the ``xxx`` in the path.
 GET parameters
