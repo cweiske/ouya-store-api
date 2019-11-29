@@ -1,0 +1,12 @@
+{
+    "type": "Game",
+    "title": "Bloo Kid 2",
+    "buttons": [
+        {
+            "bold": false,
+            "url": "http://cweiske.de/",
+            "text": "Open developer page"
+        }
+    ],
+    ...
+}

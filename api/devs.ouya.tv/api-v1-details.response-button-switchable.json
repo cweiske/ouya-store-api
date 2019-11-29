@@ -1,0 +1,15 @@
+{
+    "type": "Game",
+    "title": "Bloo Kid 2",
+    "buttons": [
+        {
+            "bold": false,
+            "status_url": "http://example.org/activation-status",
+            "url": "http://example.org/activate",
+            "off_url": "http://example.org/deactivate",
+            "text": "Activate feature",
+            "on_text": "Deactivate feature"
+        }
+    ],
+    ...
+}

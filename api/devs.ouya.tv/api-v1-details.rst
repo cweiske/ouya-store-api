@@ -7,6 +7,10 @@ Detail page for an app bundle.
 Also used as detail page for installed games when opened through
 the "Play" section.
 
+If there are no details available, the error code 2005 needs to be returned.
+Otherwise opening the details for an installed but unlisted game will
+fail on the OUYA.
+
 
 HTTP request
 ============
@@ -60,3 +64,46 @@ Example: Bundle
 
 A full version of that response data is available in git at
 ``api/devs.ouya.tv/api-v1-details.response-bundle-full.json``
+
+
+Example: Unlisted game
+-----------------------
+
+.. include:: api-v1-details.response-unlisted.json
+   :code:
+
+
+Buttons
+=======
+It is possible to add buttons in each of the detail types.
+
+There are two types of buttons:
+
+- Switchable buttons (on/off state)
+- URL buttons (``android.intent.action.VIEW``,
+  e.g. to open URLs or detail pages of other apps)
+
+
+Button for a detail page of an app
+----------------------------------
+.. include:: api-v1-details.response-button-appdetails.json
+   :code:
+
+Button for a website URL
+------------------------
+.. include:: api-v1-details.response-button-url.json
+   :code:
+
+Switchable button
+-----------------
+.. include:: api-v1-details.response-button-switchable.json
+   :code:
+
+When the details page is loaded, ``status_url`` is fetched.
+It needs to return ``{"status":true}`` or ``{"status":false}``.
+
+If "true" is returned, ``on_text`` is shown.
+Clicking will launch ``off_url``.
+
+If "false is returned, ``text`` is shown.
+Clicking will launch ``url``.

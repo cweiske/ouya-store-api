@@ -1,0 +1,12 @@
+{
+    "type": "Game",
+    "title": "Bloo Kid 2",
+    "buttons": [
+        {
+            "bold": false,
+            "url": "ouya://launcher/details?app=de.eiswuxe.blookid2_unlocked",
+            "text": "Show unlocked"
+        }
+    ],
+    ...
+}
