@@ -40,6 +40,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-ratings.rst
 .. include:: api/devs.ouya.tv/api-v1-ratings.post.rst
 .. include:: api/devs.ouya.tv/api-v1-recommendations.rst
+.. include:: api/devs.ouya.tv/api-v1-search.rst
 .. include:: api/devs.ouya.tv/api-v1-sessions.rst
 .. include:: api/devs.ouya.tv/api-v1-themes.rst
 .. include:: api/devs.ouya.tv/api-v1-wallet.rst
