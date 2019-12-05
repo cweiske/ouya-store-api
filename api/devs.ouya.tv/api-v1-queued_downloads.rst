@@ -30,6 +30,16 @@ Status code
 Content-type
   ``application/json; charset=utf-8``
 
+Known ``source`` options:
+
+``gamer``
+  The user clicked onto "push to my ouya" on the OUYA website
+``game-of-the-month``
+  The game gets automatically installed because the OUYA people awarded it the
+  "game of the month" trophy.
+``new-user``
+  You are a freshly registered user and should have this game on your OUYA.
+
 
 Example
 -------
