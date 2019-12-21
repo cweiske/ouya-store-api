@@ -33,9 +33,7 @@ POST parameters
   ``current_time``
     ``1434577856574``
 
-    Some time stamp.
-
-    FIXME: which format?
+    Unix timestamp, milliseconds.
   ``console_id``
     Same data as in standard header ``X-OUYA-Console-Id``
   ``events``

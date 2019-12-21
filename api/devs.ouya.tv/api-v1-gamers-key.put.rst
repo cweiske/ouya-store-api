@@ -2,9 +2,10 @@
 ``PUT https://devs.ouya.tv/api/v1/gamers/key``
 ==============================================
 
-Store an encryption key on the server
+Store the user's public key on the server.
 
-FIXME: When is that key needed?
+Receipts/purchases are encryptd by the server with the user's public key,
+so that only that user can decrypt it.
 
 HTTP request
 ============

@@ -2,8 +2,11 @@
 ``GET https://devs.ouya.tv/api/v1/developers/xxx/products/``
 ============================================================
 
-FIXME: Fetch details about a game purchase option
+Use in-game when purchasing a feature, sometimes already at game startup.
 
+Some games rely on this to check if the game is purchasable at all.
+If the product list does not contain the product identifier they
+expect, buying is not possible. (Example: ``com.sega.sonic4epi``)
 
 Usage
 =====

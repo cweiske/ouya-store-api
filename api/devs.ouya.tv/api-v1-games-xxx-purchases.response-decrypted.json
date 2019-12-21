@@ -1,0 +1,14 @@
+{
+    "purchases": [
+        {
+            "purchaseDate": 1576845859000,
+            "generateDate": 1576845859000,
+            "identifier": "blookid2_full",
+            "gamer": "stouyapi",
+            "uuid": "00702342-0000-1111-2222-c3e1500cafe2",
+            "priceInCents": 399,
+            "localPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

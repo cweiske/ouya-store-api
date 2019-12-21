@@ -157,13 +157,14 @@ The position in the ``tiles`` array is the ID used by ``rows/tiles``.
 ``premium``
   ``true`` or ``false``
 
-  FIXME: What is that for?
+  When ``true``, the game has no demo version and has to be bought before
+  it can be downloaded.
 ``promotedProduct``
   object
 
   Bundles do not have this property set.
 
-  ??? FIXME: What is that for?
+  The "buy" button buys this product.
 
   ``currency``
     string

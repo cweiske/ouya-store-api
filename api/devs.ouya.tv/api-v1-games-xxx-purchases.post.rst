@@ -40,13 +40,26 @@ GET parameters
     ``launcher`` (at least when bought through the OUYA UI)
 POST parameters
   ``blob``
-    Encrypted data
+    Base64-encoded encrypted data
   ``iv``
-    FIXME: Initialization vector for the cryptographic function
+    Base64-encoded initialization vector for the cryptographic function
   ``key``
-    FIXME: Key used to encrypt the data. FIXME: symmetric or assymetric?
+    Base64-encoded key used to encrypt the data. FIXME: symmetric or assymetric?
   ``auth_token``
     Same as ``X-OUYA-AuthToken``
+
+The decrypted ``blob`` contains a JSON object:
+
+``identifier``
+  Product key
+``testing``
+  Unknown. Always "true".
+``uuid``
+  Random number that is used by the game for this purchase request.
+  Must be returned in the response to this request.
+
+.. include:: api-v1-games-xxx-purchases.post.request-decrypted.json
+   :code:
 
 
 HTTP response
@@ -55,6 +68,11 @@ Status code
   ``200 OK``
 Content-type
   ``application/json; charset=utf-8``
+
+Again the base-64 encoded keys: ``iv``, ``key`` and ``blob``.
+
+``blob`` is a JSON object that needs to contain the ``uuid`` property.
+Other properties in the response are unknown.
 
 Example
 -------
