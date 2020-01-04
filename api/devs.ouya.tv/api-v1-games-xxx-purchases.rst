@@ -54,7 +54,7 @@ Status code
 Content-type
   ``application/json; charset=utf-8``
 
-Three properties:
+The response is a JSON objec containing three properties:
 
 ``iv``
   Base 64 encoded initialization vector for encryption
@@ -63,14 +63,17 @@ Three properties:
 ``blob``
   Base64 encoded encrypted data
 
-The decrypted ``blob`` contains again a JSON object with the following properties:
+The decrypted ``blob`` contains again a JSON object with three properties:
 
 - ``iv``
 - ``key``
 - ``blob``
 
-This blob is again a base64-encoded JSON objecct and contains the actual data:
-An array of receipts/purchases.
+This blob is again base64-encoded JSON and contains the actual data:
+A JSON with a single property "purchases" whose value is
+an array of receipts/purchases.
+
+Each receipt has the following properties:
 
 ``purchaseDate``
   Required. Milliseconds.
