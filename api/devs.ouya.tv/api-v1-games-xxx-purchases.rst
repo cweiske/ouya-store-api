@@ -82,9 +82,9 @@ Each receipt has the following properties:
 ``identifier``
   Product key. Required. Alternative name: ``sku``.
 ``gamer``
-  User name. Required.
-``uuid``
   User UUID. Required.
+``uuid``
+  Transaction UUID. Required.
 ``priceInCents``
   Integer. Optional.
 ``localPrice``
