@@ -44,11 +44,14 @@ POST parameters
   ``iv``
     Base64-encoded initialization vector for the cryptographic function
   ``key``
-    Base64-encoded key used to encrypt the data. FIXME: symmetric or assymetric?
+    Base64-encoded key used to encrypt the ``blob``.
+    Encrypted with FIXME: gamer key or developer key.
   ``auth_token``
     Same as ``X-OUYA-AuthToken``
 
-The decrypted ``blob`` contains a JSON object:
+The decrypted ``blob`` again contains ``blob``, ``key`` and ``iv``.
+
+The decrypted inner ``blob`` contains a JSON object:
 
 ``identifier``
   Product key
@@ -57,6 +60,13 @@ The decrypted ``blob`` contains a JSON object:
 ``uuid``
   Random number that is used by the game for this purchase request.
   Must be returned in the response to this request.
+
+Raw request (without encryption):
+
+.. include:: api-v1-games-xxx-purchases.post.request-nocrypt.json
+   :code:
+
+Decrypted:
 
 .. include:: api-v1-games-xxx-purchases.post.request-decrypted.json
    :code:
@@ -72,7 +82,13 @@ Content-type
 Again the base-64 encoded keys: ``iv``, ``key`` and ``blob``.
 
 ``blob`` is a JSON object that needs to contain the ``uuid`` property.
-Other properties in the response are unknown.
+Most games do not want any other properties.
+
+"God of Blades" requires:
+
+- ``identifier``
+- ``name``
+- ``priceInCents``
 
 Example
 -------
