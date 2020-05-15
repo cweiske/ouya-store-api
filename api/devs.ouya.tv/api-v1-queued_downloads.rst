@@ -5,6 +5,10 @@
 Fetch a list of apps/games that shall get installed automatically
 on the OUYA.
 
+The OUYA checks the download queue exactly every 5 minutes.
+
+More information: http://cweiske.de/tagebuch/push-to-ouya.htm
+
 
 HTTP request
 ============
