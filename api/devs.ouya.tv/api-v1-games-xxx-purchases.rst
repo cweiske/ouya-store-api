@@ -86,7 +86,7 @@ Each receipt has the following properties:
 ``uuid``
   Transaction UUID. Required.
 ``priceInCents``
-  Integer. Optional.
+  Integer. Required.
 ``localPrice``
   Float. Optional.
 ``currency``
