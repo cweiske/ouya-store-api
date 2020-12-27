@@ -50,8 +50,33 @@ Status code
 Content-type
   ``application/json; charset=utf-8``
 
+
+Response body definition
+------------------------
+
+``developer.url``
+  Not set for everyone.
+  If set, a "Developer page" button is shown on the game details screen.
+
+  Example when set: ``ouya://launcher/details?developer=92345f8d-ddbd-43f2-afcf-2628b1234713``
+
+``metaData``
+  Array of strings that determine which data are shown in the top row.
+
+  Allowed values:
+
+  - ``key:rating.average``: Shows the rating stars from ``rating.average``
+  - ``key:apk.fileSize``: Shows the ``apk.fileSize`` as readable size with unit.
+  - ``key:twitterHandle``: Shows the ``twitterHandle`` property, automatically prefixes an "@".
+  - Any string value beginning with "key:" fetches the key path from JSON, e.g. ``developer.name``.
+  - Any string value that does not begin with ``key:`` is shown as-is.
+
+``promotedProduct``
+  When set, the "Buy" button is shown on the details screen.
+
+
 Example: App
----------------
+------------
 
 .. include:: api-v1-details.response-app.json
    :code:
