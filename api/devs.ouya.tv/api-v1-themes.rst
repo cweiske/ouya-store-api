@@ -7,7 +7,8 @@ Load the main menu background image/video.
 
 Usage
 =====
-#. FIXME VERIFY: During startup before loading the main menu
+#. During startup before loading the main menu
+#. Every three hours
 
 
 HTTP request
@@ -33,11 +34,30 @@ HTTP response
 =============
 
 Status code
-  ``200 OK`` 
+  ``200 OK``
 Content type
   ``application/json; charset=utf-8``
 
-Example:
+
+Response body definition
+------------------------
+
+``background_style``
+  Supported until at least ODK 1.0.12.
+  Latest firmware 1.2.1427 does not support it anymore.
+
+  ``static`` meant that the image would be scaled.
+  Any value other than ``static`` would make the image pan around.
+``background``
+  Full URL to a backgroud image
+``video``
+  Supported until at least ODK 1.0.12.
+  Latest firmware 1.2.1427 does not support it anymore.
+
+  Video URL had preference over background image URL.
+
+Example
+-------
 
 .. include:: api-v1-themes.response.json
    :code:
