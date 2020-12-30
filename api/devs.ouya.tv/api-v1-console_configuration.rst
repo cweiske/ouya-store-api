@@ -2,7 +2,12 @@
 ``GET https://devs.ouya.tv/api/v1/console_configuration``
 =========================================================
 
-FIXME: What is this used for?
+Sets Android system properties.
+Allows to enable debug or kiosk mode remotely.
+
+This file is downloaded every hour.
+
+See `Configuration options`_.
 
 
 HTTP request

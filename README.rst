@@ -48,6 +48,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/agreements-marketplace.html.rst
 .. include:: api/devs.ouya.tv/update_strings.txt.rst
 .. include:: api/www.ouya.tv/system_message.rst
+.. include:: api/configuration.rst
 
 
 =====
@@ -88,4 +89,3 @@ You need to install ``rst2html5`` before::
 Rendering the docs is done via a build script::
 
     $ ./build.sh
-
