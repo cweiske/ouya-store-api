@@ -5,6 +5,14 @@
 Store that a legal agreement has been confirmed by the user.
 
 
+Usage
+=====
+
+#. After setting up a factory-reset OUYA.
+#. After logging in with an existing account.
+#. After booting up the OUYA.
+
+
 HTTP request
 ============
 Protocol
@@ -35,7 +43,7 @@ POST parameters
 HTTP response
 =============
 Status code
-  ``200 OK`` 
+  ``200 OK``
 Content type
   ``application/json; charset=utf-8``
 Body

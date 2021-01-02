@@ -7,6 +7,15 @@ Store the user's public key on the server.
 Receipts/purchases are encryptd by the server with the user's public key,
 so that only that user can decrypt it.
 
+
+Usage
+=====
+
+#. Once per bootup just before purchases are checked the first time.
+   That can be when opening "Play" that contains purchasable games,
+   or "Discover" showing purchasable games.
+
+
 HTTP request
 ============
 Protocol

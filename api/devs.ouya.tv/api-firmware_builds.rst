@@ -5,6 +5,14 @@
 List the latest available firmware version.
 
 
+Usage
+=====
+
+#. During the OUYA setup (Parameter ``oobe=true`` is set)
+#. During bootup
+#. Every 3 minutes unless an "Expires" header is set
+
+
 HTTP request
 ============
 Protocol
@@ -28,11 +36,9 @@ GET parameters
   ``oobe``
     ``true``
 
-    Can be omitted.
+    Optional.
 
-    Does not seem to have any influence on the response.
-
-    FIXME: what is that for? "Out Of (the) Box Experience"? Does it change anything?
+    Is set once during the OUYA setup (Out Of Box Experience).
 
 
 HTTP response

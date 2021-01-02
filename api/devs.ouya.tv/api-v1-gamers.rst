@@ -56,13 +56,15 @@ POST parameters
 HTTP response
 =============
 
+..note:: Does not support HTTP redirects!
+
 Success
 -------
 When everything is ok and the user has been registered
 (or the data were valid when ``dryrun`` was set)
 
 Status code
-  ``200 OK`` 
+  ``200 OK``
 Content type
   ``application/json; charset=utf-8``
 Response body

@@ -5,6 +5,13 @@
 Associate a console ID with the account.
 
 
+Usage
+=====
+
+#. After logging in with an existing account
+#. (Probably after registering a new account)
+
+
 HTTP request
 ============
 Protocol
@@ -35,7 +42,7 @@ POST parameters
 HTTP response
 =============
 Status code
-  ``200 OK`` 
+  ``200 OK``
 Content type
   ``application/json; charset=utf-8``
 Body

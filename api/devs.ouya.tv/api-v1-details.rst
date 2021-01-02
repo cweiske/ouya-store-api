@@ -39,6 +39,8 @@ GET parameters
     UUID of the developer
 
     Example: ``5b015434-8a78-4274-aa5d-0cb2e330e50e``
+  ``community_content``
+    UUID of a community content module
 
 Only one of ``app``, ``developer`` or ``page`` is provided.
 
@@ -53,6 +55,9 @@ Content-type
 
 Response body definition
 ------------------------
+
+``ccUrl``
+  Show community content for this game
 
 ``developer.url``
   Not set for everyone.

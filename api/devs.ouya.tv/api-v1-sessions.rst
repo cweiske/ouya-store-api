@@ -14,6 +14,7 @@ Usage
 
 #. After logging with an existing account
 #. After new user registration
+#. When visiting Manage > Accounts
 
 
 HTTP request
@@ -51,7 +52,7 @@ When the user logged in successfully.
           No new token is issued in this case.
 
 Status code
-  ``200 OK`` 
+  ``200 OK``
 Content type
   ``application/json; charset=utf-8``
 
