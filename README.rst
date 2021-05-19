@@ -47,6 +47,7 @@ speak with ``devs.ouya.tv``.
 .. include:: api/devs.ouya.tv/api-v1-wallet.rst
 .. include:: api/devs.ouya.tv/agreements-marketplace.html.rst
 .. include:: api/devs.ouya.tv/update_strings.txt.rst
+.. include:: api/ouya-updates.s3.amazonaws.com/updates-ouya_1_1.rst
 .. include:: api/www.ouya.tv/system_message.rst
 .. include:: api/configuration.rst
 

@@ -1,0 +1,105 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title></title><style type="text/css">body{
+ font-family: helvetica;
+ color: #222;
+}
+
+li>p{
+ margin-bottom: 0;
+}
+
+.line{
+ margin-bottom: 0.3em;
+ display: table;
+}
+
+.admonition-title {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+aside{
+ float: right;
+ width: 20%;
+ display: table;
+ padding: 1em;
+ margin: 1em;
+ margin-right: 0;
+}
+
+.footnote, .cite{
+ width: 98%;
+ display: table;
+ border: 1px solid #ddd;
+ padding: 0.5%;
+ margin: 0.5%;
+}
+
+.footnote .du-label, .cite .du-label{
+ float: left;
+ height: 100%;
+ width: 5%;
+ margin-right: 1em;
+ padding: 0.5%;
+ text-align: center;
+ display: table;
+}
+
+th, th p{
+ font-weight: bold;
+}
+
+.field-label{
+ font-weight: bold;
+}
+
+ol.arabic{
+ list-style-type: decimal;
+}
+
+ol.loweralpha{
+ list-style-type: lower-alpha;
+}
+
+ol.upperalpha{
+ list-style-type: upper-alpha;
+}
+
+ol.lowerroman{
+ list-style-type: lower-roman;
+}
+
+ol.upperroman{
+ list-style-type: upper-roman;
+}
+
+img.align-left{
+ float: left;
+}
+
+img.align-right{
+ float: right;
+}
+</style></head><body><h1><code>GET http://ouya-updates.s3.amazonaws.com/updates-ouya_1_1.json</code></h1><p>Information about the latest firmware.
+Only used by old firmware versions like <code>1.0.138</code> and <code>1.0.158</code>.
+Firmware <code>1.0.248</code> and later do not check this URL anymore and
+use <a href="#id1" id="id2"><span class="problematic">`GET https://devs.ouya.tv/api/firmware_builds`_</span></a> instead.</p><section id="http-request"><header><h2>HTTP request</h2></header><dl><dt>Protocol</dt><dd><p><code>http</code></p></dd><dt>Method</dt><dd><p><code>GET</code></p></dd><dt>Host</dt><dd><p><code>ouya-updates.s3.amazonaws.com</code></p></dd><dt>Path</dt><dd><p><code>/updates-ouya_1_1.json</code></p></dd></dl></section><section id="http-response"><header><h2>HTTP response</h2></header><dl><dt>Status code</dt><dd><p><code>200 OK</code></p></dd></dl><pre><code class="code">{
+  "result": [
+    {
+      "filename": "OUYA-1.2.1084-r1.zip",
+      "timestamp": "1400714704",
+      "md5sum": "ed9f1712988c5ec2033f44fabe8e6297",
+      "channel": "stable",
+      "url": "http://devs-ouya-tv-prod.s3.amazonaws.com/ota/RC-OUYA-1.2.1084-r1_ota.zip",
+      "requiredUpto": "1.2.995",
+      "changes": "https://devs.ouya.tv/api/changelog/ed9f1712988c5ec2033f44fabe8e6297.txt",
+      "changesLocalized": {
+        "en": "&lt;!doctype html&gt;\r\n&lt;html&gt;\r\n    &lt;head&gt;\r\n...",
+        "es": "&lt;!doctype html&gt;\r\n&lt;html&gt;\r\n    &lt;head&gt;\r\n...",
+        "fr": "&lt;!doctype html&gt;\r\n&lt;html&gt;\r\n    &lt;head&gt;\r\n...",
+        "it": "&lt;!doctype html&gt;\r\n&lt;html&gt;\r\n    &lt;head&gt;\r\n...",
+        "de": "&lt;!doctype html&gt;\r\n&lt;html&gt;\r\n    &lt;head&gt;\r\n..."
+      },
+      "incremental": false
+    }
+  ]
+}</code></pre></section><section class="system-messages"><header><h2>Docutils System Messages</h2></header><div class="alert-message block-message system-message error" id="id1"><p class="system-message-title admonition-title">System Message: ERROR/3</p><span class="literal">updates-ouya_1_1.rst</span>line 5 <em><a href="#id2">backlink</a></em><p>Unknown target name: "get https://devs.ouya.tv/api/firmware_builds".</p></div></section></body></html>
