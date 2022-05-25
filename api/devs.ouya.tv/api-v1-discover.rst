@@ -29,6 +29,8 @@ Status code
 Content-type
   ``application/json; charset=utf-8``
 
+HTTP redirects (e.g. 302) are supported.
+
 Response body definition
 ------------------------
 JSON object with two properties: ``rows`` and ``tiles``.
@@ -252,4 +254,3 @@ Example
 
 The API git repository contains a full copy of the "discover" response
 at ``api/devs.ouya.tv/api-v1-discover.response-full.json``.
-
