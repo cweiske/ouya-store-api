@@ -68,6 +68,8 @@ Store the downloaded API responses for discover category pages on
 ---------------------
 When disabled, the regular fetch of ``/api/v1/gamers/me/agreements`` will not happen.
 
+Also does not show the agreements during user registration in OOBE.
+
 Default: ``1``
 
 
@@ -179,6 +181,13 @@ This URL needs to return a "204" HTTP status code.
 Default: ``http://status.ouya.tv/api/v1/status``
 
 
+``QUERY_GENDER_DOB``
+--------------------
+Show the gender and birthday input fields during registration in OOBE.
+
+Default: ``1``
+
+
 ``RATING_PROMPT_DELAY``
 -----------------------
 Number of game launches until the "rate this game" prompt is shown.
@@ -200,6 +209,13 @@ Default: ``5``
 Maximum number of "Rate this game" popups per game.
 
 Default: ``0`` (infinite)
+
+
+``SAFE_ZONE``
+-------------
+Show a grey border around the OOBE screen.
+
+Default: ``0``
 
 
 ``UPDATE_TEXT_URL``
@@ -259,8 +275,6 @@ They are defined in the code, but not used anywhere in ``OUYALauncher.apk``::
   METRICS_SPEW
   NUM_RECENT_DOWNLOADS_IN_DISCOVER
   OUYA_RENAME_CONTROLLER
-  QUERY_GENDER_DOB
-  SAFE_ZONE
   SESSION_UPDATE_DELAY_SEC
   SHOW_DISCOUNTS
   SYSTEM_MESSAGE_URL
