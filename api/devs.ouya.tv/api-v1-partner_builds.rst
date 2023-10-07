@@ -14,10 +14,13 @@ Method
 Host
   ``devs.ouya.tv``
 Path
-  ``/api/v1/discover``
+  ``/api/v1/partner_builds``
 Headers
   ``User-Agent``
-    ``ouya-everywhere-installer (MadCatz/mojo-TS/mojo:4.2.2/JDQ39/MO0205-TS:user/release-keys)``
+    Known values:
+
+    - ``ouya-everywhere-installer (MadCatz/mojo-TS/mojo:4.2.2/JDQ39/MO0205-TS:user/release-keys)``
+    - ``ouya-everywhere-installer (razer/pearlyn/pearlyn:6.0.1/M-MMB29M-rzs-us-sf-bld2-19HP-08.02.AM/144:user/release-keys)``
   ``Accept-Language``
     ``de``
   ``X-InstallerVersionCode``
