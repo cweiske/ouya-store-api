@@ -4,6 +4,12 @@
 
 Fetch commands for the "OUYA Everywhere" installer.
 
+The OUYA Everywhere installer ``tv.ouya.oe.installer`` fetches this URL
+from the server, installs package updates (framework, console UI)
+and then starts the actual console UI.
+
+Used on the Mad Catz Mojo and Razer Forge TV.
+
 
 HTTP request
 ============
@@ -16,37 +22,61 @@ Host
 Path
   ``/api/v1/partner_builds``
 Headers
+  The Razer Forge TV seems to prefix all custom headers with ``X-OUYA-``
+  while the Mojo version only uses ``X-``.
+
   ``User-Agent``
     Known values:
 
     - ``ouya-everywhere-installer (MadCatz/mojo-TS/mojo:4.2.2/JDQ39/MO0205-TS:user/release-keys)``
     - ``ouya-everywhere-installer (razer/pearlyn/pearlyn:6.0.1/M-MMB29M-rzs-us-sf-bld2-19HP-08.02.AM/144:user/release-keys)``
   ``Accept-Language``
-    ``de``
+    - ``de``
+    - ``en-US,en``
   ``X-InstallerVersionCode``
-    ??
+    Razer Forge TV: ``8``
   ``X-InstallerVersionName``
-    ??
+    Razer Forge TV: ``1.08``
   ``X-InstallerPackageName``
-    ??
+    ``tv.ouya.oe.installer``
   ``X-OUYA-Console-Id``
     Build serial number
+
+    Razer Forge TV: ``171256710321511``
   ``X-Device``
     ??
+  ``X-OUYA-Device``
+    Razer Forge TV: ``pearlyn``
   ``X-Product``
     ??
+  ``X-OUYA-Product``
+    Razer Forge TV: ``pearlyn``
   ``X-Model``
     ??
+  ``X-OUYA-Model``
+    Razer Forge TV: ``Forge``
   ``X-Brand``
     ??
+  ``X-OUYA-Brand``
+    Razer Forge TV:``razer``
   ``X-Display``
     ??
+  ``X-OUYA-Display``
+    Razer Forge TV: ``M-MMB29M-rzs-us-sf-bld2-19HP-08.02.AM.144``
   ``X-BuildId``
     ??
+  ``X-OUYA-BuildId``
+    Razer Forge TV: ``M-MMB29M-rzs-us-sf-bld2-19HP-08.02.AM``
   ``X-Manufacturer``
     ??
+  ``X-OUYA-Manufacturer``
+    Razer Forge TV: ``razer``
   ``OUYAUsername``
     When logged in.
+  ``X-OUYA-AuthToken``
+    Only when logged in already
+
+    ``00702342-0000-1111-2222-c3e1500cafe1``
 
 
 HTTP response
