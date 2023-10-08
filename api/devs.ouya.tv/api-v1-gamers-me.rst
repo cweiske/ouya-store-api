@@ -24,7 +24,7 @@ GET parameters
 HTTP response
 =============
 Status code
-  ``200 OK`` 
+  ``200 OK``
 Content type
   ``application/json; charset=utf-8``
 
@@ -32,3 +32,11 @@ Example:
 
 .. include:: api-v1-gamers-me.response.json
    :code:
+
+Razer Forge TV want this additional properties:
+
+``nickname``
+  Same as ``username`` on the OUYA.
+  When not set, the Forge asks to enter the nickname during login.
+``avatar``
+  URL of a custom avatar image

@@ -8,6 +8,8 @@ This token is stored in the console and used in the
 ``X-OUYA-AuthToken`` and ``X-Token`` headers as well as the
 ``auth_token`` GET parameter.
 
+The Razer Forge TV uses `POST https://devs.ouya.tv/api/razer/session`_ instead.
+
 
 Usage
 =====

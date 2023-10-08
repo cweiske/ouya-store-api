@@ -12,6 +12,8 @@ speak with ``devs.ouya.tv``.
 .. include:: api/ott9.wpstn.com/live.rst
 .. include:: api/status.ouya.tv/api-v1-status.rst
 .. include:: api/devs.ouya.tv/api-firmware_builds.rst
+.. include:: api/devs.ouya.tv/api-razer-gamer.rst
+.. include:: api/devs.ouya.tv/api-razer-session.rst
 .. include:: api/devs.ouya.tv/api-v1-apps-xxx.rst
 .. include:: api/devs.ouya.tv/api-v1-apps-xxx-download.rst
 .. include:: api/devs.ouya.tv/api-v1-console_configuration.rst
