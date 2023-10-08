@@ -7,6 +7,8 @@ Register a new user and/or verify new user registration data.
 This method is both used as verification during input, as well as the
 final registration.
 
+Razer Forge TV uses `POST https://devs.ouya.tv/api/razer/gamer`_ instead.
+
 
 Usage
 =====
