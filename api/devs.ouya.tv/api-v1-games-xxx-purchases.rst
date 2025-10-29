@@ -54,7 +54,7 @@ Status code
 Content-type
   ``application/json; charset=utf-8``
 
-The response is a JSON objec containing three properties:
+The response is a JSON object containing three properties:
 
 ``iv``
   Base 64 encoded initialization vector for encryption
