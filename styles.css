@@ -23,3 +23,7 @@ h2 {
 dd {
     margin-left: 3ex;
 }
+
+span.literal {
+    font-family: monospace;
+}
