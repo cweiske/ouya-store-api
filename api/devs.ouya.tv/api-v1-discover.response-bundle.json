@@ -1,0 +1,25 @@
+{
+  "rows": [
+  ],
+  "tiles": [
+    {
+      "bundle": {
+        "apps": [
+          "com.GoldenTricycle.Clark",
+          "com.Tripleslash.MagneticByNature",
+          "com.Thinice.TwinRobots",
+          "com.scaryrobot.badbadbots"
+        ],
+        "currency": "EUR",
+        "price": 6.99,
+        "contentRating": "9+",
+        "purchaseUrl": "ouya://launcher/purchase?developer=ec1a9ccd-373f-4047-bd07-36466ab7e25d&product=ROBOBUNDLE"
+      },
+      "url": "ouya://launcher/details?page=be239ca4-10fd-42dd-89cd-1806e80b1362",
+      "image": "https://s3.amazonaws.com/ouya-screenshots/be239ca4-10fd-42dd-89cd-1806e80b1362/thumbnails/thumbnail20150202-3-6hikjv.jpeg",
+      "uuid": "be239ca4-10fd-42dd-89cd-1806e80b1362",
+      "title": "ROBO GAME BUNDLE!",
+      "type": "details_page"
+    }
+  ]
+}
